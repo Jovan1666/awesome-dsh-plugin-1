@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**494** plugins · [PRs welcome](#contributing)
+**495** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -536,6 +536,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [vibeinging/dsh-agent-budget](https://github.com/vibeinging/dsh-agent-budget) - Agent-tree token budget management.
 - [vibeinging/dsh-trace](https://github.com/vibeinging/dsh-trace) - Telemetry backend exporting turns, model steps, and tool calls to yiTrace.
 - [vlln/plugin-registry](https://github.com/vlln/plugin-registry) - Ecosystem infrastructure: a thin browser console for managing official repository plugins (zero patches) plus a make-dsh-plugin skill for guided plugin development.
+- [weibaohui/dsh-git-server](https://github.com/weibaohui/dsh-git-server) - Git server: embeds ts-gogs (a TypeScript reimplementation of Gogs) and serves a full Git service on its own port - HTTP clone/push, web UI, issues/PRs/wiki - reusing user-management credentials, start/stop from the settings page.
 - [weibaohui/dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) - WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page.
 - [weibaohui/user-management](https://github.com/weibaohui/user-management) - Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs.
 - [william-jin-cmu/dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) - Self-evolution: the agent hot-mounts/removes persistent plugins on itself mid-session.
