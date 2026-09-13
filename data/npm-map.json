@@ -1763,6 +1763,10 @@
   "npm": "@weibaohui/dsh-continue",
   "checkedAt": "2026-09-06"
  },
+ "https://github.com/weibaohui/dsh-process": {
+  "npm": "@weibaohui/dsh-process",
+  "checkedAt": "2026-09-13"
+ },
  "https://github.com/weibaohui/dsh-settings-ui": {
   "npm": "@weibaohui/dsh-settings-ui",
   "checkedAt": "2026-09-06"
