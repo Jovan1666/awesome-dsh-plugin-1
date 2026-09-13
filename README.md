@@ -226,7 +226,6 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [PerryLink/dsh-mask](https://github.com/PerryLink/dsh-mask) — PII 脱敏中间件：姓名/电话/身份证/银行卡等在到达模型前匿名化为占位符，展示层还原，绝不记录明文。
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) — 有界、分层、带审批门、可审计的跨会话记忆：`ctx.memory` 服务 + 零依赖 SQLite 存储 + `memory` 工具与冻结快照注入；写入必过审批门，模型可见内容可自会话日志重建。
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) — 声明式 allow/deny/ask 权限规则 + Codex 式进程级网络策略（内置本地 HTTP/CONNECT 代理），全量审计 + 规则热重载。
-- [PerryLink/dsh-personal-directive](https://github.com/PerryLink/dsh-personal-directive) — 个人指令注入器：系统提示词指令段 + personal_directive_profile 工具 + Web 顶部运行时开关——框架版内置中性占位指令，用户可替换为自己的个人指令。
 - [PerryLink/dsh-score](https://github.com/PerryLink/dsh-score) — 插件多维质量评分：安装成功/维护/文档/安全/协议合规五维，真实 CLI 证据 + 审计时间戳，产出 JSON/Markdown 榜单。
 - [PerryLink/dsh-test-drive](https://github.com/PerryLink/dsh-test-drive) — 插件隔离安装冒烟试驾：一次性 DSH_HOME profile 内安装+校验+启动，产出结构化通过/失败矩阵。
 - [Phant0Meow/dsh-memory-meow](https://github.com/Phant0Meow/dsh-memory-meow) — 项目级跨会话记忆：PROJECT.md 快照注入首条用户消息（缓存友好）+ memory_remember 工具 + ReAct 任务结束自动反思；各项目独立记忆文件，互不互通。
