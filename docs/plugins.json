@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-13",
- "count": 495,
+ "count": 494,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -2510,21 +2510,6 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-permission-rules",
    "added": "2026-08-19"
-  },
-  {
-   "name": "dsh-personal-directive",
-   "owner": "PerryLink",
-   "url": "https://github.com/PerryLink/dsh-personal-directive",
-   "category": "memory",
-   "description": {
-    "zh": "个人指令注入器：系统提示词指令段 + personal_directive_profile 工具 + Web 顶部运行时开关——框架版内置中性占位指令，用户可替换为自己的个人指令。",
-    "en": "Personal directive injector for DeepSeek Harness: a system-prompt directive segment, a personal_directive_profile tool, and a Web top-bar runtime toggle — framework edition that ships a neutral placeholder for users to replace with their own directives."
-   },
-   "npm": "dsh-personal-directive",
-   "stars": 0,
-   "createdAt": "2026-08-29",
-   "install": "dsh plugin --profile web add dsh-personal-directive",
-   "added": "2026-09-13"
   },
   {
    "name": "dsh-score",

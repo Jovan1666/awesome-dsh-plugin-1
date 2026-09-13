@@ -6,13 +6,6 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-09-13T00:00:00Z</updated>
   <entry>
-    <title>PerryLink/dsh-personal-directive</title>
-    <id>https://github.com/PerryLink/dsh-personal-directive</id>
-    <link href="https://github.com/PerryLink/dsh-personal-directive"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Personal directive injector for DeepSeek Harness: a system-prompt directive segment, a personal_directive_profile tool, and a Web top-bar runtime toggle — framework edition that ships a neutral placeholder for users to replace with their own directives.</summary>
-  </entry>
-  <entry>
     <title>PerryLink/dsh-data-quality</title>
     <id>https://github.com/PerryLink/dsh-data-quality</id>
     <link href="https://github.com/PerryLink/dsh-data-quality"/>
@@ -214,5 +207,12 @@
     <link href="https://github.com/weibaohui/experts-management"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>Expert manager: manage ntd-format experts and expert teams (plugin.json + Agent MD + skill sets), browse and install from a built-in market of 50+ experts, and run tasks in an expert persona via /expert-&lt;name&gt; without consuming model directory tokens.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/user-management</title>
+    <id>https://github.com/weibaohui/user-management</id>
+    <link href="https://github.com/weibaohui/user-management"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs.</summary>
   </entry>
 </feed>

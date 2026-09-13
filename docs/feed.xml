@@ -6,13 +6,6 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
   <updated>2026-09-13T00:00:00Z</updated>
   <entry>
-    <title>PerryLink/dsh-personal-directive</title>
-    <id>https://github.com/PerryLink/dsh-personal-directive</id>
-    <link href="https://github.com/PerryLink/dsh-personal-directive"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>个人指令注入器：系统提示词指令段 + personal_directive_profile 工具 + Web 顶部运行时开关——框架版内置中性占位指令，用户可替换为自己的个人指令。</summary>
-  </entry>
-  <entry>
     <title>PerryLink/dsh-data-quality</title>
     <id>https://github.com/PerryLink/dsh-data-quality</id>
     <link href="https://github.com/PerryLink/dsh-data-quality"/>
@@ -214,5 +207,12 @@
     <link href="https://github.com/weibaohui/experts-management"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>专家管理：管理 ntd 格式的专家与专家团队（plugin.json + Agent MD + 技能集），内置 50+ 专家市场，`/expert-名称` 以专家身份执行任务，不占模型目录 token。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/user-management</title>
+    <id>https://github.com/weibaohui/user-management</id>
+    <link href="https://github.com/weibaohui/user-management"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>用户管理：给 dsh web 加登录门禁，未登录访问弹登录/注册页，首个注册者自动成为管理员；管理员可管理用户/角色，带登录与访问审计。</summary>
   </entry>
 </feed>
