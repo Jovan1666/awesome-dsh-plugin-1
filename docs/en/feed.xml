@@ -104,6 +104,13 @@
     <summary>Merged, version-locked plugin upgrade skill for DeepSeek Harness (0.1.3-alpha.1 to 0.1.5-rc.1 as two closed legs): an evidence-bound version card plus a zero-dependency 20-seam scanner, as a bundle skill and an npx CLI.</summary>
   </entry>
   <entry>
+    <title>weibaohui/dsh-git-server</title>
+    <id>https://github.com/weibaohui/dsh-git-server</id>
+    <link href="https://github.com/weibaohui/dsh-git-server"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Git server: embeds ts-gogs (a TypeScript reimplementation of Gogs) and serves a full Git service on its own port - HTTP clone/push, web UI, issues/PRs/wiki - reusing user-management credentials, start/stop from the settings page.</summary>
+  </entry>
+  <entry>
     <title>weibaohui/dsh-webdav-server</title>
     <id>https://github.com/weibaohui/dsh-webdav-server</id>
     <link href="https://github.com/weibaohui/dsh-webdav-server"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/weibaohui/experts-management"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>Expert manager: manage ntd-format experts and expert teams (plugin.json + Agent MD + skill sets), browse and install from a built-in market of 50+ experts, and run tasks in an expert persona via /expert-&lt;name&gt; without consuming model directory tokens.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/user-management</title>
-    <id>https://github.com/weibaohui/user-management</id>
-    <link href="https://github.com/weibaohui/user-management"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs.</summary>
   </entry>
 </feed>
