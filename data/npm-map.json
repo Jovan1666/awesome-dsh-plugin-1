@@ -1779,6 +1779,10 @@
   "npm": "@weibaohui/dsh-tasks",
   "checkedAt": "2026-09-07"
  },
+ "https://github.com/weibaohui/dsh-webdav-server": {
+  "npm": "@weibaohui/dsh-webdav-server",
+  "checkedAt": "2026-09-13"
+ },
  "https://github.com/weibaohui/dsh-xiuxian": {
   "npm": "@weibaohui/dsh-xiuxian",
   "checkedAt": "2026-09-06"
