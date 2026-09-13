@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-13",
- "count": 492,
+ "count": 493,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -5435,6 +5435,21 @@
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add @vlln/dsh-loop",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-process",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/dsh-process",
+   "category": "workflow",
+   "description": {
+    "zh": "工艺管理：把 ntd 的「工艺」（多阶段·多环节 agent 工作流模板）接进 dsh web——浏览/编辑/校验/导入导出/AI 生成工艺，内置库只读、我的库可写，文件改动实时同步；agent 可通过 process_* 工具读工艺库、按工艺分阶段推进。",
+    "en": "Process management: brings ntd-style processes (multi-stage, multi-step agent workflow templates) into the dsh web UI - browse, edit, validate, import/export and AI-generate processes; the built-in library is read-only while the personal library is writable with live file sync, and agents read the library through process_* tools and advance work stage by stage."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:weibaohui/dsh-process",
+   "added": "2026-09-13"
   },
   {
    "name": "dsh-tasks",
