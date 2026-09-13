@@ -4,7 +4,98 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-09-12T00:00:00Z</updated>
+  <updated>2026-09-13T00:00:00Z</updated>
+  <entry>
+    <title>PerryLink/dsh-personal-directive</title>
+    <id>https://github.com/PerryLink/dsh-personal-directive</id>
+    <link href="https://github.com/PerryLink/dsh-personal-directive"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Personal directive injector for DeepSeek Harness: a system-prompt directive segment, a personal_directive_profile tool, and a Web top-bar runtime toggle — framework edition that ships a neutral placeholder for users to replace with their own directives.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-data-quality</title>
+    <id>https://github.com/PerryLink/dsh-data-quality</id>
+    <link href="https://github.com/PerryLink/dsh-data-quality"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Deterministic data profiling, cleaning, and verification: a ctx.dataQuality capability seam with three model tools and a frozen cross-plugin citation-checking contract — all computation in TypeScript, the model never does the math.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-fund-research</title>
+    <id>https://github.com/PerryLink/dsh-fund-research</id>
+    <link href="https://github.com/PerryLink/dsh-fund-research"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Deterministic research reports for Chinese public mutual funds: every key number traces back to a hashed source snapshot — gaps declared, never invented; research only, not investment advice.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-industry-research</title>
+    <id>https://github.com/PerryLink/dsh-industry-research</id>
+    <link href="https://github.com/PerryLink/dsh-industry-research"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Industry and company research domain pack for DeepSeek Harness: chain maps, public-source tracking, company cards, and auditable reports — every number traces to a source, every gap is declared.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-research-report</title>
+    <id>https://github.com/PerryLink/dsh-research-report</id>
+    <link href="https://github.com/PerryLink/dsh-research-report"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Verifiable research-report engine: every claim is bound to immutable evidence snapshots, verified byte-for-byte, and sealed into a versioned report whose manifest hash can be recomputed.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-team-rooms</title>
+    <id>https://github.com/PerryLink/dsh-team-rooms</id>
+    <link href="https://github.com/PerryLink/dsh-team-rooms"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Persistent, cross-session multi-agent team rooms for DeepSeek Harness — members, a message bus, a shared task board, and a shared timeline that survive restarts.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-reach</title>
+    <id>https://github.com/PerryLink/dsh-reach</id>
+    <link href="https://github.com/PerryLink/dsh-reach"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Multi-channel decision and remote-control bridge: pushes DSH approval and question cards to IM channels (WeChat iLink, Telegram, Feishu) and answers them from chat, with a session console, per-channel security, and an open push service.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-ticktick</title>
+    <id>https://github.com/PerryLink/dsh-ticktick</id>
+    <link href="https://github.com/PerryLink/dsh-ticktick"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>TickTick / Dida365 task bridge for DeepSeek Harness: a session-header task panel (list filter, quick add, complete, delete, due dates, drag reorder), eleven curated agent tools, a plugin settings card, and a typed Remote service — all over the official TickTick MCP endpoint.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-autotier</title>
+    <id>https://github.com/PerryLink/dsh-autotier</id>
+    <link href="https://github.com/PerryLink/dsh-autotier"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Automatic model-tier routing for DeepSeek Harness: one user instruction enters, one tier decision comes out — complex intent is planned on the strong tier and implemented on the cheap tier, with a deterministic guard and a TTL escalation fallback.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-cert-mcp</title>
+    <id>https://github.com/PerryLink/dsh-cert-mcp</id>
+    <link href="https://github.com/PerryLink/dsh-cert-mcp"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Read-only MCP server exposing the dsh-plugin-certification registry: certification grades, snapshot dates, and five-dimension evidence for DeepSeek Harness plugins, over stdio with zero runtime dependencies.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-plugin-doctor</title>
+    <id>https://github.com/PerryLink/dsh-plugin-doctor</id>
+    <link href="https://github.com/PerryLink/dsh-plugin-doctor"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Zero-dependency static + sandbox smoke detector for DeepSeek Harness plugins: package-structure checks (R), a Cordis contract scan (K), dynamic sandbox smoke tests (D), and an ecosystem collection-site checklist (CC) in one run.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-plugin-kit</title>
+    <id>https://github.com/PerryLink/dsh-plugin-kit</id>
+    <link href="https://github.com/PerryLink/dsh-plugin-kit"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Shared zero-runtime-dependency toolkit for the PerryLink DSH plugin family: a pluggable Provider seam, fail-closed approval and adaptive session-event gates, verify scripts, and shared sanitize/pricing/judge modules in one ESM + TypeScript package.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-plugin-upgrade-015</title>
+    <id>https://github.com/PerryLink/dsh-plugin-upgrade-015</id>
+    <link href="https://github.com/PerryLink/dsh-plugin-upgrade-015"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Merged, version-locked plugin upgrade skill for DeepSeek Harness (0.1.3-alpha.1 to 0.1.5-rc.1 as two closed legs): an evidence-bound version card plus a zero-dependency 20-seam scanner, as a bundle skill and an npx CLI.</summary>
+  </entry>
   <entry>
     <title>hutao562/dsh-remote-dsh</title>
     <id>https://github.com/hutao562/dsh-remote-dsh</id>
@@ -123,96 +214,5 @@
     <link href="https://github.com/ice5kysl/dsh-workspace-kit"/>
     <updated>2026-09-06T00:00:00Z</updated>
     <summary>Workspace-first enhanced sidebar (shadows the built-in workspace browser at low priority, one-click toggle back) with soft workspace archive/restore, per-workspace icons and accent colors, drag reorder and title/path/session-content search, plus a ⌘K Spotlight palette; host side ships read-only workspace_find/workspace_list tools and slash commands. Bilingual zh/en.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-settings-ui</title>
-    <id>https://github.com/weibaohui/dsh-settings-ui</id>
-    <link href="https://github.com/weibaohui/dsh-settings-ui"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser.</summary>
-  </entry>
-  <entry>
-    <title>extracurricular-ai/dsh-filesnap</title>
-    <id>https://github.com/extracurricular-ai/dsh-filesnap</id>
-    <link href="https://github.com/extracurricular-ai/dsh-filesnap"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-continue</title>
-    <id>https://github.com/weibaohui/dsh-continue</id>
-    <link href="https://github.com/weibaohui/dsh-continue"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>Auto-resume for interrupted sessions: rules route by failure type (rate limit, quota, auth, context overflow, crashed orphan) into backoff retry, model switch, resume-after-compaction, or stop-loss notification, with a visual rule editor and activity log.</summary>
-  </entry>
-  <entry>
-    <title>lcthe/dsh-hermes-memory</title>
-    <id>https://github.com/lcthe/dsh-hermes-memory</id>
-    <link href="https://github.com/lcthe/dsh-hermes-memory"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>DSH-native persistent memory: session-aware retrieval, standing context, crash-safe consolidation, and storage-backed skills.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/hermes-loop</title>
-    <id>https://github.com/weibaohui/hermes-loop</id>
-    <link href="https://github.com/weibaohui/hermes-loop"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore, never deletes directly).</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-xiuxian</title>
-    <id>https://github.com/weibaohui/dsh-xiuxian</id>
-    <link href="https://github.com/weibaohui/dsh-xiuxian"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>Xianxia desktop pets tied to live agent sessions: pixel-style companions appear as subagents spawn (up to 3 on screen), with storage-bag collection, a right-click artifact menu, a pet gallery, and Codex pet-format export.</summary>
-  </entry>
-  <entry>
-    <title>Bionic-forest/dsh-memory_rollout</title>
-    <id>https://github.com/Bionic-forest/dsh-memory_rollout</id>
-    <link href="https://github.com/Bionic-forest/dsh-memory_rollout"/>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <summary>Codex-style per-session memory for DSH: one session one draft (rollout_summaries), layered disclosure (summary → registry → drafts/evidence), restrained &amp; passive, idempotent integration, remembers facts/preferences/decisions across sessions with verifiable citations, npm package `dsh-memory_rollout`.</summary>
-  </entry>
-  <entry>
-    <title>KongFangXun/sofagent</title>
-    <id>https://github.com/KongFangXun/sofagent</id>
-    <link href="https://github.com/KongFangXun/sofagent"/>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <summary>Commit-time governance harness for AI coding agents: 24 deterministic audit rules over git diffs (secrets, out-of-scope edits, blind modifications, prompt-injection traces), HMAC-chained audit history, and a 9-plugin DSH family. - Context injection audit: token costs of instruction chains / skill catalogs / tool schemas, duplicate and conflict detection.</summary>
-  </entry>
-  <entry>
-    <title>dgadelha1/dsh-explorer-plugin</title>
-    <id>https://github.com/dgadelha1/dsh-explorer-plugin</id>
-    <link href="https://github.com/dgadelha1/dsh-explorer-plugin"/>
-    <updated>2026-08-30T00:00:00Z</updated>
-    <summary>Workspace file tree + Monaco editor: multiple tabs, undo/redo, live file watching (SSE), real VS Code TextMate syntax highlighting (28 languages) and Dark+/Light+ themes, embedded directly in the DSH web GUI.</summary>
-  </entry>
-  <entry>
-    <title>liznee/dsh-speech-input</title>
-    <id>https://github.com/liznee/dsh-speech-input</id>
-    <link href="https://github.com/liznee/dsh-speech-input"/>
-    <updated>2026-08-30T00:00:00Z</updated>
-    <summary>A native microphone button in the composer: dictate drafts by voice, auto-stop after 5 s of silence, a capsule dictation UI with click-to-preview, supporting Chinese and English.</summary>
-  </entry>
-  <entry>
-    <title>liznee/dsh-file-resource</title>
-    <id>https://github.com/liznee/dsh-file-resource</id>
-    <link href="https://github.com/liznee/dsh-file-resource"/>
-    <updated>2026-08-30T00:00:00Z</updated>
-    <summary>Local file input: images use the native path, while PDF/Office/EPUB/text are parsed locally into session-scoped resources, with a restricted read tool, @filename references, and a right-side split preview.</summary>
-  </entry>
-  <entry>
-    <title>dsh-product-subagent-console</title>
-    <id>https://github.com/Jokasa7/dsh-product-subagent-console</id>
-    <link href="https://github.com/Jokasa7/dsh-product-subagent-console"/>
-    <updated>2026-08-30T00:00:00Z</updated>
-    <summary>A conversation-level multi-agent workbench for editable task plans, real child-session trees, plan-to-runtime comparison, and evidence-backed recovery previews.</summary>
-  </entry>
-  <entry>
-    <title>ianho7/dsh-port-inspector</title>
-    <id>https://github.com/ianho7/dsh-port-inspector</id>
-    <link href="https://github.com/ianho7/dsh-port-inspector"/>
-    <updated>2026-08-30T00:00:00Z</updated>
-    <summary>Track the origin of local development ports on Windows and safely manage verified DSH services.</summary>
   </entry>
 </feed>
