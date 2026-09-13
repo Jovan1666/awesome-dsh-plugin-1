@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-13",
- "count": 494,
+ "count": 495,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -1490,6 +1490,21 @@
    "createdAt": null,
    "install": "dsh plugin --profile web add github:dsh-external/dsh-skins",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-wallpaper",
+   "owner": "dugujun3-cloud",
+   "url": "https://github.com/dugujun3-cloud/dsh-wallpaper",
+   "category": "theme",
+   "description": {
+    "zh": "整站背景图切换：设置页「背景图片」行打开居中选择器，可浏览本地壁纸库、搜索 wallhaven（仅 SFW 动漫）或从磁盘导入，右键卡片设为背景或打开原图页面；填充方式、模糊、遮罩与内容纱罩均可调，卸载后无残留。",
+    "en": "Whole-app background images: a Background image row in Settings opens a centred picker with a local wallpaper library, wallhaven search (SFW anime only), and disk import; right-click a card to set the background or open the source page, with adjustable fill mode, blur, scrim and content veil, and no residue on uninstall."
+   },
+   "npm": null,
+   "stars": 2,
+   "createdAt": "2026-09-02",
+   "install": "dsh plugin --profile web add github:dugujun3-cloud/dsh-wallpaper",
+   "added": "2026-09-13"
   },
   {
    "name": "dsh-theme-kit",

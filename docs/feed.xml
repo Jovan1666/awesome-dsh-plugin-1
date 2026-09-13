@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
   <updated>2026-09-13T00:00:00Z</updated>
   <entry>
+    <title>dugujun3-cloud/dsh-wallpaper</title>
+    <id>https://github.com/dugujun3-cloud/dsh-wallpaper</id>
+    <link href="https://github.com/dugujun3-cloud/dsh-wallpaper"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>整站背景图切换：设置页「背景图片」行打开居中选择器，可浏览本地壁纸库、搜索 wallhaven（仅 SFW 动漫）或从磁盘导入，右键卡片设为背景或打开原图页面；填充方式、模糊、遮罩与内容纱罩均可调，卸载后无残留。</summary>
+  </entry>
+  <entry>
     <title>PerryLink/dsh-data-quality</title>
     <id>https://github.com/PerryLink/dsh-data-quality</id>
     <link href="https://github.com/PerryLink/dsh-data-quality"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/weibaohui/experts-management"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>专家管理：管理 ntd 格式的专家与专家团队（plugin.json + Agent MD + 技能集），内置 50+ 专家市场，`/expert-名称` 以专家身份执行任务，不占模型目录 token。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/user-management</title>
-    <id>https://github.com/weibaohui/user-management</id>
-    <link href="https://github.com/weibaohui/user-management"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>用户管理：给 dsh web 加登录门禁，未登录访问弹登录/注册页，首个注册者自动成为管理员；管理员可管理用户/角色，带登录与访问审计。</summary>
   </entry>
 </feed>

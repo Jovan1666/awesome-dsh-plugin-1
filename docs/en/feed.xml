@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-09-13T00:00:00Z</updated>
   <entry>
+    <title>dugujun3-cloud/dsh-wallpaper</title>
+    <id>https://github.com/dugujun3-cloud/dsh-wallpaper</id>
+    <link href="https://github.com/dugujun3-cloud/dsh-wallpaper"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Whole-app background images: a Background image row in Settings opens a centred picker with a local wallpaper library, wallhaven search (SFW anime only), and disk import; right-click a card to set the background or open the source page, with adjustable fill mode, blur, scrim and content veil, and no residue on uninstall.</summary>
+  </entry>
+  <entry>
     <title>PerryLink/dsh-data-quality</title>
     <id>https://github.com/PerryLink/dsh-data-quality</id>
     <link href="https://github.com/PerryLink/dsh-data-quality"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/weibaohui/experts-management"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>Expert manager: manage ntd-format experts and expert teams (plugin.json + Agent MD + skill sets), browse and install from a built-in market of 50+ experts, and run tasks in an expert persona via /expert-&lt;name&gt; without consuming model directory tokens.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/user-management</title>
-    <id>https://github.com/weibaohui/user-management</id>
-    <link href="https://github.com/weibaohui/user-management"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs.</summary>
   </entry>
 </feed>
