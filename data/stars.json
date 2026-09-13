@@ -2603,6 +2603,12 @@
   "etag": "W/\"716777932ebe836a3505400ec15279fceecca9b223ad50122ea25bfc35d99b0c\"",
   "checkedAt": "2026-09-13"
  },
+ "https://github.com/weibaohui/dsh-git-server": {
+  "stars": 1,
+  "createdAt": "2026-09-10",
+  "etag": "W/\"fe3c2e0e6abff575e8377e56ca658efe006a379957145cd4b2dc0f93a15d5fbd\"",
+  "checkedAt": "2026-09-13"
+ },
  "https://github.com/weibaohui/dsh-process": {
   "stars": 1,
   "createdAt": "2026-09-08",
