@@ -4,7 +4,105 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-12T00:00:00Z</updated>
+  <updated>2026-09-13T00:00:00Z</updated>
+  <entry>
+    <title>PerryLink/dsh-personal-directive</title>
+    <id>https://github.com/PerryLink/dsh-personal-directive</id>
+    <link href="https://github.com/PerryLink/dsh-personal-directive"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>个人指令注入器：系统提示词指令段 + personal_directive_profile 工具 + Web 顶部运行时开关——框架版内置中性占位指令，用户可替换为自己的个人指令。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-data-quality</title>
+    <id>https://github.com/PerryLink/dsh-data-quality</id>
+    <link href="https://github.com/PerryLink/dsh-data-quality"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>确定性数据画像、清洗与核验：ctx.dataQuality 能力接缝提供三个模型工具与跨插件引文核验冻结契约——全部计算由 TypeScript 完成，模型不碰算术。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-fund-research</title>
+    <id>https://github.com/PerryLink/dsh-fund-research</id>
+    <link href="https://github.com/PerryLink/dsh-fund-research"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>中国公募基金确定性研究报告：每个关键数字都回溯到哈希封存的数据快照——缺口如实声明、绝不编造；仅供研究，不构成投资建议。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-industry-research</title>
+    <id>https://github.com/PerryLink/dsh-industry-research</id>
+    <link href="https://github.com/PerryLink/dsh-industry-research"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>行业与公司研究领域包：产业链建图、公开源动态跟踪、公司速览卡与可审计报告——每个数字可溯源，每个缺口都如实声明。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-research-report</title>
+    <id>https://github.com/PerryLink/dsh-research-report</id>
+    <link href="https://github.com/PerryLink/dsh-research-report"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>可验证研究报告引擎：每条结论绑定不可变证据快照并逐字节核验，封存为版本化报告，其清单哈希可复算。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-team-rooms</title>
+    <id>https://github.com/PerryLink/dsh-team-rooms</id>
+    <link href="https://github.com/PerryLink/dsh-team-rooms"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>持久化、跨会话的多 Agent 团队房间：成员、消息总线、共享任务板与共享时间线，重启后仍然保留。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-process</title>
+    <id>https://github.com/weibaohui/dsh-process</id>
+    <link href="https://github.com/weibaohui/dsh-process"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>工艺管理：把 ntd 的「工艺」（多阶段·多环节 agent 工作流模板）接进 dsh web——浏览/编辑/校验/导入导出/AI 生成工艺，内置库只读、我的库可写，文件改动实时同步；agent 可通过 process_* 工具读工艺库、按工艺分阶段推进。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-reach</title>
+    <id>https://github.com/PerryLink/dsh-reach</id>
+    <link href="https://github.com/PerryLink/dsh-reach"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>多渠道决策与遥控桥：把 DSH 的审批与提问卡片推送到 IM 渠道（微信 iLink、Telegram、飞书）并在聊天内作答，附会话控制台、按渠道安全策略与开放推送服务。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-ticktick</title>
+    <id>https://github.com/PerryLink/dsh-ticktick</id>
+    <link href="https://github.com/PerryLink/dsh-ticktick"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>TickTick / Dida365（滴答清单）任务桥：会话头部任务面板（列表筛选、快速添加、完成、删除、截止日期、拖拽排序）、11 个精选 agent 工具、插件设置卡片与类型化 Remote 服务，全部走官方 TickTick MCP 端点。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-autotier</title>
+    <id>https://github.com/PerryLink/dsh-autotier</id>
+    <link href="https://github.com/PerryLink/dsh-autotier"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>自动模型档位路由：一条用户指令进入、一个档位决策出来——复杂意图由强档规划、廉价档执行，确定性护栏 + TTL 升级回退。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-cert-mcp</title>
+    <id>https://github.com/PerryLink/dsh-cert-mcp</id>
+    <link href="https://github.com/PerryLink/dsh-cert-mcp"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>只读 MCP 服务器，暴露 dsh-plugin-certification 认证注册表：认证等级、快照日期与 DeepSeek Harness 插件五维证据，stdio 传输、零运行时依赖。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-plugin-doctor</title>
+    <id>https://github.com/PerryLink/dsh-plugin-doctor</id>
+    <link href="https://github.com/PerryLink/dsh-plugin-doctor"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>零依赖的 DeepSeek Harness 插件「完整性 + 运行流畅」检测器：包结构静态检查（R）→ Cordis 契约扫描（K）→ 动态沙箱冒烟（D）→ 生态集合站清单校验（CC），一次运行覆盖四层。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-plugin-kit</title>
+    <id>https://github.com/PerryLink/dsh-plugin-kit</id>
+    <link href="https://github.com/PerryLink/dsh-plugin-kit"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>PerryLink DSH 插件家族共享的零运行时依赖工具包：可插拔 Provider 接缝、fail-closed 审批门与自适应会话事件门、校验脚本与共享 sanitize/pricing/judge 纯模块，合为一个 ESM + TypeScript 包。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-plugin-upgrade-015</title>
+    <id>https://github.com/PerryLink/dsh-plugin-upgrade-015</id>
+    <link href="https://github.com/PerryLink/dsh-plugin-upgrade-015"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>合并后的版本锁定插件升级技能（0.1.3-alpha.1 → 0.1.5-rc.1，两条闭环腿）：证据绑定版本卡 + 零依赖 20 接缝扫描器，以 bundle 技能 + npx CLI 两种形态发布。</summary>
+  </entry>
   <entry>
     <title>hutao562/dsh-remote-dsh</title>
     <id>https://github.com/hutao562/dsh-remote-dsh</id>
@@ -116,103 +214,5 @@
     <link href="https://github.com/ice5kysl/dsh-file-explorer-kit"/>
     <updated>2026-09-06T00:00:00Z</updated>
     <summary>会话内「文件」页签：以当前会话工作区为根的面包屑浏览，内联预览消毒渲染的 Markdown、图片、带行号文本与 PDF；目录与读取走只读 /dsh-files 宿主路由，无写端点（中英双语）。</summary>
-  </entry>
-  <entry>
-    <title>ice5kysl/dsh-workspace-kit</title>
-    <id>https://github.com/ice5kysl/dsh-workspace-kit</id>
-    <link href="https://github.com/ice5kysl/dsh-workspace-kit"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>工作区优先的增强侧栏（以低优先级 shadow 内置工作区浏览器，可一键切回官方版）+ ⌘K Spotlight 模糊搜索：软归档/恢复、每工作区图标与强调色、拖拽排序、标题/路径/会话内容搜索；宿主侧附带只读 workspace_find/workspace_list 工具与斜杠命令（中英双语）。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-settings-ui</title>
-    <id>https://github.com/weibaohui/dsh-settings-ui</id>
-    <link href="https://github.com/weibaohui/dsh-settings-ui"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>设置界面自定义：调整原生设置窗口大小（全屏/预置/自定义宽高）、背景透明度与背景（主题/颜色/图片），悬浮球即开即调，存本机浏览器。</summary>
-  </entry>
-  <entry>
-    <title>extracurricular-ai/dsh-filesnap</title>
-    <id>https://github.com/extracurricular-ai/dsh-filesnap</id>
-    <link href="https://github.com/extracurricular-ai/dsh-filesnap"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>同步回退对话与工作区，不碰 Git；每次回退都是一个 fork，/redo 可撤销。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-continue</title>
-    <id>https://github.com/weibaohui/dsh-continue</id>
-    <link href="https://github.com/weibaohui/dsh-continue"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>自动续跑：agent 会话中断后自动续上，规则表按失败类型（限流/额度/鉴权/上下文超限/崩溃孤儿）路由——退避重试、换模型、压缩上下文后继续或止损通知，规则可视化编辑，全程活动日志。</summary>
-  </entry>
-  <entry>
-    <title>lcthe/dsh-hermes-memory</title>
-    <id>https://github.com/lcthe/dsh-hermes-memory</id>
-    <link href="https://github.com/lcthe/dsh-hermes-memory"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>面向 DSH 的原生持久记忆插件：会话检索、常驻上下文、崩溃安全合并和本地技能存储。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/hermes-loop</title>
-    <id>https://github.com/weibaohui/hermes-loop</id>
-    <link href="https://github.com/weibaohui/hermes-loop"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>自动复盘：对话收尾后自动把有价值的经验蒸馏成可复用技能存入技能库，支持信号加速触发、手动立即复盘、审批模式与技能库治理（归档/恢复，永不直接删除）。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-xiuxian</title>
-    <id>https://github.com/weibaohui/dsh-xiuxian</id>
-    <link href="https://github.com/weibaohui/dsh-xiuxian"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>修仙陪伴：MC 像素风桌宠与 agent 会话实时联动，子代理启动时化身宠物现身（最多 3 只同屏），储物袋收藏、右键法宝菜单、图鉴选宠，可导出 Codex 桌宠格式。</summary>
-  </entry>
-  <entry>
-    <title>Bionic-forest/dsh-memory_rollout</title>
-    <id>https://github.com/Bionic-forest/dsh-memory_rollout</id>
-    <link href="https://github.com/Bionic-forest/dsh-memory_rollout"/>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <summary>Codex 风格的 DSH 会话持久记忆：一会话一草稿（rollout_summaries）、分层披露（summary→注册表→草稿/证据）、克制被动、幂等整合，跨会话记住事实/偏好/决策并带可核验引用，npm 包名 `dsh-memory_rollout`。</summary>
-  </entry>
-  <entry>
-    <title>KongFangXun/sofagent</title>
-    <id>https://github.com/KongFangXun/sofagent</id>
-    <link href="https://github.com/KongFangXun/sofagent"/>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <summary>提交时审计 harness：24 条确定性规则审查 git diff（密钥、越权改动、盲改、提示注入痕迹），HMAC 链式防篡改审计记录，含 9 插件 DSH 家族（engine/dsh-plugins）。 — 上下文注入审计：统计指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突。</summary>
-  </entry>
-  <entry>
-    <title>dgadelha1/dsh-explorer-plugin</title>
-    <id>https://github.com/dgadelha1/dsh-explorer-plugin</id>
-    <link href="https://github.com/dgadelha1/dsh-explorer-plugin"/>
-    <updated>2026-08-30T00:00:00Z</updated>
-    <summary>工作区文件树 + Monaco 编辑器：多标签、撤销/重做、实时文件监听（SSE）、VS Code 真实 TextMate 语法高亮（28 种语言）与 Dark+/Light+ 主题，直接嵌入 DSH 网页 GUI。</summary>
-  </entry>
-  <entry>
-    <title>liznee/dsh-speech-input</title>
-    <id>https://github.com/liznee/dsh-speech-input</id>
-    <link href="https://github.com/liznee/dsh-speech-input"/>
-    <updated>2026-08-30T00:00:00Z</updated>
-    <summary>输入框原生麦克风按钮：语音写草稿、5 秒静音自动停止、胶囊听写 UI 与点击预览。中英文支持。</summary>
-  </entry>
-  <entry>
-    <title>liznee/dsh-file-resource</title>
-    <id>https://github.com/liznee/dsh-file-resource</id>
-    <link href="https://github.com/liznee/dsh-file-resource"/>
-    <updated>2026-08-30T00:00:00Z</updated>
-    <summary>本地文件输入：图片走原生，PDF/Office/EPUB/文本本机解析为会话隔离资源；受限读取工具、@文件名 引用与右侧分栏预览。</summary>
-  </entry>
-  <entry>
-    <title>dsh-product-subagent-console</title>
-    <id>https://github.com/Jokasa7/dsh-product-subagent-console</id>
-    <link href="https://github.com/Jokasa7/dsh-product-subagent-console"/>
-    <updated>2026-08-30T00:00:00Z</updated>
-    <summary>DSH 对话级多 Agent 工作台：可编辑任务方案、真实子会话树、计划与实际运行对照，以及基于证据的恢复预览。</summary>
-  </entry>
-  <entry>
-    <title>ianho7/dsh-port-inspector</title>
-    <id>https://github.com/ianho7/dsh-port-inspector</id>
-    <link href="https://github.com/ianho7/dsh-port-inspector"/>
-    <updated>2026-08-30T00:00:00Z</updated>
-    <summary>Windows 本地开发端口来源追踪与安全处理工具。</summary>
   </entry>
 </feed>
