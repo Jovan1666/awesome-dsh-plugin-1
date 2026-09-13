@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-13",
- "count": 493,
+ "count": 494,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -6980,6 +6980,21 @@
    "createdAt": "2026-08-04",
    "install": "dsh plugin --profile web add github:vlln/plugin-registry",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-webdav-server",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/dsh-webdav-server",
+   "category": "dev",
+   "description": {
+    "zh": "WebDAV 服务器：把一个共享目录变成 Windows/macOS/Linux 都能挂载成本地磁盘的 WebDAV 服务，令牌认证、可选只读、目录/端口/令牌全可配，设置页自带三平台挂载指南。",
+    "en": "WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:weibaohui/dsh-webdav-server",
+   "added": "2026-09-13"
   },
   {
    "name": "user-management",

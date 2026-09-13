@@ -104,6 +104,13 @@
     <summary>Merged, version-locked plugin upgrade skill for DeepSeek Harness (0.1.3-alpha.1 to 0.1.5-rc.1 as two closed legs): an evidence-bound version card plus a zero-dependency 20-seam scanner, as a bundle skill and an npx CLI.</summary>
   </entry>
   <entry>
+    <title>weibaohui/dsh-webdav-server</title>
+    <id>https://github.com/weibaohui/dsh-webdav-server</id>
+    <link href="https://github.com/weibaohui/dsh-webdav-server"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page.</summary>
+  </entry>
+  <entry>
     <title>hutao562/dsh-remote-dsh</title>
     <id>https://github.com/hutao562/dsh-remote-dsh</id>
     <link href="https://github.com/hutao562/dsh-remote-dsh"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/weibaohui/user-management"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs.</summary>
-  </entry>
-  <entry>
-    <title>ice5kysl/dsh-file-explorer-kit</title>
-    <id>https://github.com/ice5kysl/dsh-file-explorer-kit</id>
-    <link href="https://github.com/ice5kysl/dsh-file-explorer-kit"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>In-session &quot;Files&quot; tab for dsh Web: breadcrumb browsing of the active session's workspace with inline previews of sanitized Markdown, images, line-numbered text and PDF via read-only /dsh-files host routes; no write endpoints. Bilingual zh/en.</summary>
   </entry>
 </feed>
