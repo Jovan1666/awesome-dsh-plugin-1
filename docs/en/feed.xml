@@ -48,6 +48,13 @@
     <summary>Persistent, cross-session multi-agent team rooms for DeepSeek Harness — members, a message bus, a shared task board, and a shared timeline that survive restarts.</summary>
   </entry>
   <entry>
+    <title>weibaohui/dsh-process</title>
+    <id>https://github.com/weibaohui/dsh-process</id>
+    <link href="https://github.com/weibaohui/dsh-process"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Process management: brings ntd-style processes (multi-stage, multi-step agent workflow templates) into the dsh web UI - browse, edit, validate, import/export and AI-generate processes; the built-in library is read-only while the personal library is writable with live file sync, and agents read the library through process_* tools and advance work stage by stage.</summary>
+  </entry>
+  <entry>
     <title>PerryLink/dsh-reach</title>
     <id>https://github.com/PerryLink/dsh-reach</id>
     <link href="https://github.com/PerryLink/dsh-reach"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/ice5kysl/dsh-file-explorer-kit"/>
     <updated>2026-09-06T00:00:00Z</updated>
     <summary>In-session &quot;Files&quot; tab for dsh Web: breadcrumb browsing of the active session's workspace with inline previews of sanitized Markdown, images, line-numbered text and PDF via read-only /dsh-files host routes; no write endpoints. Bilingual zh/en.</summary>
-  </entry>
-  <entry>
-    <title>ice5kysl/dsh-workspace-kit</title>
-    <id>https://github.com/ice5kysl/dsh-workspace-kit</id>
-    <link href="https://github.com/ice5kysl/dsh-workspace-kit"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>Workspace-first enhanced sidebar (shadows the built-in workspace browser at low priority, one-click toggle back) with soft workspace archive/restore, per-workspace icons and accent colors, drag reorder and title/path/session-content search, plus a ⌘K Spotlight palette; host side ships read-only workspace_find/workspace_list tools and slash commands. Bilingual zh/en.</summary>
   </entry>
 </feed>
