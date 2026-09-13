@@ -1323,6 +1323,10 @@
   "npm": "dsh-budget",
   "checkedAt": "2026-08-19"
  },
+ "https://github.com/PerryLink/dsh-cert-mcp": {
+  "npm": "@perrylink/dsh-cert-mcp",
+  "checkedAt": "2026-09-13"
+ },
  "https://github.com/PerryLink/dsh-checkpoint-rewind": {
   "npm": "dsh-checkpoint-rewind",
   "checkedAt": "2026-08-19"
@@ -1409,6 +1413,10 @@
  },
  "https://github.com/PerryLink/dsh-personal-directive": {
   "npm": "dsh-personal-directive",
+  "checkedAt": "2026-09-13"
+ },
+ "https://github.com/PerryLink/dsh-plugin-doctor": {
+  "npm": "@perrylink/dsh-plugin-doctor",
   "checkedAt": "2026-09-13"
  },
  "https://github.com/PerryLink/dsh-plugin-guide": {

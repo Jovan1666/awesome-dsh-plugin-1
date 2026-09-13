@@ -69,6 +69,20 @@
     <summary>Automatic model-tier routing for DeepSeek Harness: one user instruction enters, one tier decision comes out — complex intent is planned on the strong tier and implemented on the cheap tier, with a deterministic guard and a TTL escalation fallback.</summary>
   </entry>
   <entry>
+    <title>PerryLink/dsh-cert-mcp</title>
+    <id>https://github.com/PerryLink/dsh-cert-mcp</id>
+    <link href="https://github.com/PerryLink/dsh-cert-mcp"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Read-only MCP server exposing the dsh-plugin-certification registry: certification grades, snapshot dates, and five-dimension evidence for DeepSeek Harness plugins, over stdio with zero runtime dependencies.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-plugin-doctor</title>
+    <id>https://github.com/PerryLink/dsh-plugin-doctor</id>
+    <link href="https://github.com/PerryLink/dsh-plugin-doctor"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Zero-dependency static + sandbox smoke detector for DeepSeek Harness plugins: package-structure checks (R), a Cordis contract scan (K), dynamic sandbox smoke tests (D), and an ecosystem collection-site checklist (CC) in one run.</summary>
+  </entry>
+  <entry>
     <title>PerryLink/dsh-plugin-kit</title>
     <id>https://github.com/PerryLink/dsh-plugin-kit</id>
     <link href="https://github.com/PerryLink/dsh-plugin-kit"/>
@@ -200,19 +214,5 @@
     <link href="https://github.com/ice5kysl/dsh-workspace-kit"/>
     <updated>2026-09-06T00:00:00Z</updated>
     <summary>Workspace-first enhanced sidebar (shadows the built-in workspace browser at low priority, one-click toggle back) with soft workspace archive/restore, per-workspace icons and accent colors, drag reorder and title/path/session-content search, plus a ⌘K Spotlight palette; host side ships read-only workspace_find/workspace_list tools and slash commands. Bilingual zh/en.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-settings-ui</title>
-    <id>https://github.com/weibaohui/dsh-settings-ui</id>
-    <link href="https://github.com/weibaohui/dsh-settings-ui"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser.</summary>
-  </entry>
-  <entry>
-    <title>extracurricular-ai/dsh-filesnap</title>
-    <id>https://github.com/extracurricular-ai/dsh-filesnap</id>
-    <link href="https://github.com/extracurricular-ai/dsh-filesnap"/>
-    <updated>2026-09-06T00:00:00Z</updated>
-    <summary>Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it.</summary>
   </entry>
 </feed>

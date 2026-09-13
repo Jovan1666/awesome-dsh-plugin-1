@@ -1945,6 +1945,12 @@
   "etag": "W/\"aef3c7439ff3db584ed2e5e094d00ecefebdedddd7fd157b859cb9ac3436a104\"",
   "checkedAt": "2026-09-09"
  },
+ "https://github.com/PerryLink/dsh-cert-mcp": {
+  "stars": 0,
+  "createdAt": "2026-09-03",
+  "etag": "W/\"32d5141fb15cd6c581626cf3652935a8a3cd63670781cc86e7ebc7967f07c1f1\"",
+  "checkedAt": "2026-09-13"
+ },
  "https://github.com/PerryLink/dsh-checkpoint-rewind": {
   "stars": 16,
   "createdAt": "2026-08-13",
@@ -2075,6 +2081,12 @@
   "stars": 0,
   "createdAt": "2026-08-29",
   "etag": "W/\"580b34b33a391b5be77c1af91e17bdd8112ca75415bc4821c63214d6fe7b57b4\"",
+  "checkedAt": "2026-09-13"
+ },
+ "https://github.com/PerryLink/dsh-plugin-doctor": {
+  "stars": 0,
+  "createdAt": "2026-09-07",
+  "etag": "W/\"45c315f0535d06c7d4315c011533ce9878b7cbc8371e0d135c25a4b8e6393cc1\"",
   "checkedAt": "2026-09-13"
  },
  "https://github.com/PerryLink/dsh-plugin-guide": {
