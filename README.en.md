@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**495** plugins · [PRs welcome](#contributing)
+**497** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -235,11 +235,11 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [qwert702/dsh-memory](https://github.com/qwert702/dsh-memory) — Project-level and global long-term memory for DSH Web: isolated POST /items route to avoid path conflicts, multi-turn tool-call context compression before storing entries, deduplication and session-persistent storage.
 - [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) - Model-driven context compression: the model decides when and what to compress.
 - [weibaohui/context-razor](https://github.com/weibaohui/context-razor) - Context trimmer: lists the current session's context entries with role, preview and ≈token estimate (cl100k), highlights over-threshold items, and removes selected entries exactly without LLM summarization.
+- [weibaohui/dsh-kb](https://github.com/weibaohui/dsh-kb) - Team knowledge base for offline knowledge sharing (FDE box scenario): browse, full-text search and refinement entry points; raw material is queued automatically and distilled into wiki pages by a serial bot session (Karpathy LLM Wiki pattern: immutable raw, two-step refinement, log stream, monthly lint).
 - [weibaohui/hermes-loop](https://github.com/weibaohui/hermes-loop) - Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore, never deletes directly).
 - [xiejianjun000/eco-dsh-plugins](https://github.com/xiejianjun000/eco-dsh-plugins) - A scored memory-tree plugin (eco-memory-tree): structured long-term memory with BM25/Chinese retrieval and two-way Obsidian sync.
 - [Xplore-LAB/dsh-plugin-asmemory](https://github.com/Xplore-LAB/dsh-plugin-asmemory) - Action-state time memory: record typed states and actions, then analyze trends, anomalies, and causality.
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - Shared Markdown memory for DSH and other coding agents, with automatic capture, pre-step context injection, searchable recall, and a review panel.
-- [weibaohui/dsh-kb](https://github.com/weibaohui/dsh-kb) - Team knowledge base for offline knowledge sharing (FDE box scenario): browse, full-text search and refinement entry points; raw material is queued automatically and distilled into wiki pages by a serial bot session (Karpathy LLM Wiki pattern: immutable raw, two-step refinement, log stream, monthly lint).
 
 ### Tools & Capabilities
 - [1na-ko/dsh-hdc-bridge](https://github.com/1na-ko/dsh-hdc-bridge) - HarmonyOS device bridge: hdc screenshot/install/log/crash/UI automation loop with read_image, official-first versioned API knowledge (SDK .d.ts + offline bundled docs), and a DevEco CLI build/sign/lint lane.
@@ -358,6 +358,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [TonyDua/dsh-web-search-exa](https://github.com/TonyDua/dsh-web-search-exa) - Zero-config Exa web search provider for the ctx.web seam: anonymous MCP fallback without an API key, plus keyed REST search.
 - [tsingshitao-nuke/dsh-set-workspace](https://github.com/tsingshitao-nuke/dsh-set-workspace) - Right-click a folder in Windows File Explorer to open it as a DSH workspace: registers the folder, launches DSH if needed, and switches the page to it.
 - [vibeinging/dsh-tool-search](https://github.com/vibeinging/dsh-tool-search) - Per-agent on-demand tool discovery and progressive schema disclosure.
+- [weibaohui/dsh-file-share](https://github.com/weibaohui/dsh-file-share) - Session workspace file manager: adds a "Files" tab to the conversation area to browse the current session workspace directory tree and manage it in place (upload, download, mkdir, rename, delete, search), with files mentionable into the composer for the agent to process.
 - [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) - Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace.
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) - One-command backup of DSH user data: /backup, scheduled auto-backup, sha256 checksums and rotation.
 - [xiehuan123/coding-coach](https://github.com/xiehuan123/coding-coach) — Coding Coach: a 35-skill bundle plus a full agent preset for non-developers (8-stage product→launch pipeline with engineering/product/UI skills), installable via npm (`dsh plugin add coding-coach`) and as a Claude Code plugin.
@@ -377,7 +378,6 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [zimai233/dsh-wash-calendar](https://github.com/zimai233/dsh-wash-calendar) - Recurring-habit scheduling from pure date math: next occurrence, range schedules, and overdue advice.
 - [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) - Continual self-evolution: versioned, auditable, rollback-safe harness state (prompts, memory, skills, subagent specs) refined from session trajectories, with review gates and hot-reloaded skills.
 - [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) - Transparent rankings and recommendations for the DSH plugin ecosystem: daily auto-fetched topic data, an open scoring model, and rank/search/recommend tools with a settings-page leaderboard.
-- [weibaohui/dsh-file-share](https://github.com/weibaohui/dsh-file-share) - Session workspace file manager: adds a "Files" tab to the conversation area to browse the current session workspace directory tree and manage it in place (upload, download, mkdir, rename, delete, search), with files mentionable into the composer for the agent to process.
 
 ### Skills
 - [creght-dev/skills](https://github.com/creght-dev/skills) - Skills for building websites on the Creght platform: CLI pull/push sync, page and component conventions, CMS, forms, auth, SEO, publishing and version rollback.
@@ -539,6 +539,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [vibeinging/dsh-trace](https://github.com/vibeinging/dsh-trace) - Telemetry backend exporting turns, model steps, and tool calls to yiTrace.
 - [vlln/plugin-registry](https://github.com/vlln/plugin-registry) - Ecosystem infrastructure: a thin browser console for managing official repository plugins (zero patches) plus a make-dsh-plugin skill for guided plugin development.
 - [weibaohui/dsh-git-server](https://github.com/weibaohui/dsh-git-server) - Git server: embeds ts-gogs (a TypeScript reimplementation of Gogs) and serves a full Git service on its own port - HTTP clone/push, web UI, issues/PRs/wiki - reusing user-management credentials, start/stop from the settings page.
+- [weibaohui/dsh-sync](https://github.com/weibaohui/dsh-sync) - Multi-machine sync: keeps multiple dsh replicas consistent through one private GitCode repository - skills, sessions, settings and plugin manifests each with an independent switch; changes go through branch, PR and merge, remote-only additions are pulled back before every push so nothing is deleted, and an AI smart-align step semantically merges files both sides changed (plus one-click conflict resolution); private repos enforced, pull never overwrites local edits.
 - [weibaohui/dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) - WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page.
 - [weibaohui/user-management](https://github.com/weibaohui/user-management) - Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs.
 - [william-jin-cmu/dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) - Self-evolution: the agent hot-mounts/removes persistent plugins on itself mid-session.
@@ -548,7 +549,6 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [yflmq001/dsh-cost-tracker](https://github.com/yflmq001/dsh-cost-tracker) - Per-model token cost tracking with configurable cache-hit/miss, output and peak-window pricing, a live session cost bar, and unconfigured-model flags.
 - [Yuuz12/dsh-webui-auth](https://github.com/Yuuz12/dsh-webui-auth) - WebUI authentication enforced at the HTTP/transport layer: four-layer login gate (resources, plugin bundles, /api, WebSocket), server-side sessions with HttpOnly cookies.
 - [weibaohui/dsh-fde-tools](https://github.com/weibaohui/dsh-fde-tools) - FDE toolbox bundle: installing this one plugin pulls in a curated set of common dsh plugins (git server, WebDAV mount, knowledge base, scheduled tasks, auto-resume, UI tweaks, auto-retrospection, file manager, smart titles, task board, plugin market, context trimmer, IM bridge, sidebar enhancements), with a panel showing install status and one-click gap-filling.
-- [weibaohui/dsh-sync](https://github.com/weibaohui/dsh-sync) - Multi-machine sync: keeps multiple dsh replicas consistent through one private GitCode repository - skills, sessions, settings and plugin manifests each with an independent switch; changes go through branch, PR and merge, remote-only additions are pulled back before every push so nothing is deleted, and an AI smart-align step semantically merges files both sides changed (plus one-click conflict resolution); private repos enforced, pull never overwrites local edits.
 
 ### Just for Fun
 - [AnacondaKC/dsh-douyin](https://github.com/AnacondaKC/dsh-douyin) - Short-video sidebar: native player, series navigation, precise history replay.

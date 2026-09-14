@@ -29,7 +29,7 @@
  },
  "https://github.com/940842546/dsh-usage-billing": {
   "npm": null,
-  "checkedAt": "2026-08-15"
+  "checkedAt": "2026-09-14"
  },
  "https://github.com/a903067276-rgb/dsh-file-mentions": {
   "npm": null,
@@ -145,7 +145,7 @@
  },
  "https://github.com/BeiZi6/dsh-theme-plugin": {
   "npm": null,
-  "checkedAt": "2026-08-15"
+  "checkedAt": "2026-09-14"
  },
  "https://github.com/BiBoyang/dsh-eval-harness": {
   "npm": null,
@@ -553,7 +553,7 @@
  },
  "https://github.com/Gumiho12345/dsh-plugin-net-access": {
   "npm": null,
-  "checkedAt": "2026-08-15"
+  "checkedAt": "2026-09-14"
  },
  "https://github.com/gwrsfsfeefdsfs/dsh-skill-curator": {
   "npm": null,
@@ -885,7 +885,7 @@
  },
  "https://github.com/Lanxing6480/dsh-galgame": {
   "npm": null,
-  "checkedAt": "2026-08-15"
+  "checkedAt": "2026-09-14"
  },
  "https://github.com/Laplace-bit/dsh-bell-notify": {
   "npm": null,
@@ -1497,7 +1497,7 @@
  },
  "https://github.com/pk7j7sqryy-ops/dsh-token-pet": {
   "npm": null,
-  "checkedAt": "2026-08-15"
+  "checkedAt": "2026-09-14"
  },
  "https://github.com/PolinniZhong/dsh-omi-voice": {
   "npm": null,
@@ -1767,9 +1767,17 @@
   "npm": "@weibaohui/dsh-continue",
   "checkedAt": "2026-09-06"
  },
+ "https://github.com/weibaohui/dsh-file-share": {
+  "npm": "@weibaohui/dsh-file-share",
+  "checkedAt": "2026-09-14"
+ },
  "https://github.com/weibaohui/dsh-git-server": {
   "npm": "@weibaohui/dsh-git-server",
   "checkedAt": "2026-09-13"
+ },
+ "https://github.com/weibaohui/dsh-kb": {
+  "npm": "@weibaohui/dsh-kb",
+  "checkedAt": "2026-09-14"
  },
  "https://github.com/weibaohui/dsh-process": {
   "npm": "@weibaohui/dsh-process",
@@ -1782,6 +1790,10 @@
  "https://github.com/weibaohui/dsh-smart-title": {
   "npm": "@weibaohui/dsh-smart-title",
   "checkedAt": "2026-09-08"
+ },
+ "https://github.com/weibaohui/dsh-sync": {
+  "npm": "@weibaohui/dsh-sync",
+  "checkedAt": "2026-09-14"
  },
  "https://github.com/weibaohui/dsh-tasks": {
   "npm": "@weibaohui/dsh-tasks",
@@ -1868,8 +1880,8 @@
   "checkedAt": "2026-08-15"
  },
  "https://github.com/xiehuan123/dsh-deepread": {
-  "npm": null,
-  "checkedAt": "2026-08-15"
+  "npm": "dsh-deepread",
+  "checkedAt": "2026-09-14"
  },
  "https://github.com/xiejianjun000/eco-dsh-plugins": {
   "npm": null,

@@ -4,7 +4,28 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-13T00:00:00Z</updated>
+  <updated>2026-09-14T00:00:00Z</updated>
+  <entry>
+    <title>weibaohui/dsh-kb</title>
+    <id>https://github.com/weibaohui/dsh-kb</id>
+    <link href="https://github.com/weibaohui/dsh-kb"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>团队知识库：离线知识共享（FDE 盒子场景），浏览/全文检索/加工入口；raw 入料自动入队、bot 会话串行蒸馏成文（Karpathy LLM Wiki 模式：raw 不可变 / 两步加工 / log 流水 / 月度 lint）。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-file-share</title>
+    <id>https://github.com/weibaohui/dsh-file-share</id>
+    <link href="https://github.com/weibaohui/dsh-file-share"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>会话工作区文件管理：在对话区加「文件」tab，浏览当前会话工作区的目录树并就地管理（上传/下载/新建文件夹/改名/删除/搜索），文件可 @ 进对话框给 agent 处理。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-sync</title>
+    <id>https://github.com/weibaohui/dsh-sync</id>
+    <link href="https://github.com/weibaohui/dsh-sync"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>多机同步：让多台机器上的 dsh 通过一个私有 GitCode 仓库保持一致——技能、会话、设置、插件清单四类内容各有独立开关；变更走分支 → PR → 合并，推送前自动回填远端新增防误删，支持 AI 智能对齐（语义合并双方改动）与一键解决冲突；强制私有仓库，pull 不覆盖本地改动。</summary>
+  </entry>
   <entry>
     <title>dugujun3-cloud/dsh-wallpaper</title>
     <id>https://github.com/dugujun3-cloud/dsh-wallpaper</id>
@@ -193,26 +214,5 @@
     <link href="https://github.com/nvbb/dsh-ollama-vision-bridge"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>聊天选中纯文本模型时，自动用本地 Ollama VL 模型（qwen3-vl:8b）描述附图并注入同一模型步骤：本地视觉、显存冷却、无需云端（DSH ≥ 0.1.2-rc.1）。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/skills-management</title>
-    <id>https://github.com/weibaohui/skills-management</id>
-    <link href="https://github.com/weibaohui/skills-management"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>技能市场：一个页面管理本机所有 coding agent 的技能，一键收编进 DSH 用户库；内置 6600+ 技能市场，支持注入开销（≈token）统计与模型可见性治理。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-tasks</title>
-    <id>https://github.com/weibaohui/dsh-tasks</id>
-    <link href="https://github.com/weibaohui/dsh-tasks"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>定时任务：用 cron 表达式定时执行提示词，到点自动开一个新 agent 会话替你干活，支持绑定工作区、手动立即执行与会话自动命名。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/experts-management</title>
-    <id>https://github.com/weibaohui/experts-management</id>
-    <link href="https://github.com/weibaohui/experts-management"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>专家管理：管理 ntd 格式的专家与专家团队（plugin.json + Agent MD + 技能集），内置 50+ 专家市场，`/expert-名称` 以专家身份执行任务，不占模型目录 token。</summary>
   </entry>
 </feed>
