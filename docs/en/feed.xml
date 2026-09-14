@@ -4,7 +4,28 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-09-13T00:00:00Z</updated>
+  <updated>2026-09-14T00:00:00Z</updated>
+  <entry>
+    <title>weibaohui/dsh-kb</title>
+    <id>https://github.com/weibaohui/dsh-kb</id>
+    <link href="https://github.com/weibaohui/dsh-kb"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Team knowledge base for offline knowledge sharing (FDE box scenario): browse, full-text search and refinement entry points; raw material is queued automatically and distilled into wiki pages by a serial bot session (Karpathy LLM Wiki pattern: immutable raw, two-step refinement, log stream, monthly lint).</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-file-share</title>
+    <id>https://github.com/weibaohui/dsh-file-share</id>
+    <link href="https://github.com/weibaohui/dsh-file-share"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Session workspace file manager: adds a &quot;Files&quot; tab to the conversation area to browse the current session workspace directory tree and manage it in place (upload, download, mkdir, rename, delete, search), with files mentionable into the composer for the agent to process.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-sync</title>
+    <id>https://github.com/weibaohui/dsh-sync</id>
+    <link href="https://github.com/weibaohui/dsh-sync"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Multi-machine sync: keeps multiple dsh replicas consistent through one private GitCode repository - skills, sessions, settings and plugin manifests each with an independent switch; changes go through branch, PR and merge, remote-only additions are pulled back before every push so nothing is deleted, and an AI smart-align step semantically merges files both sides changed (plus one-click conflict resolution); private repos enforced, pull never overwrites local edits.</summary>
+  </entry>
   <entry>
     <title>dugujun3-cloud/dsh-wallpaper</title>
     <id>https://github.com/dugujun3-cloud/dsh-wallpaper</id>
@@ -193,26 +214,5 @@
     <link href="https://github.com/nvbb/dsh-ollama-vision-bridge"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>When the chat model is text-only, describe attached images with a local Ollama VL model (qwen3-vl:8b) and inject into the same model step: local vision, no cloud (DSH ≥ 0.1.2-rc.1).</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/skills-management</title>
-    <id>https://github.com/weibaohui/skills-management</id>
-    <link href="https://github.com/weibaohui/skills-management"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>Skill marketplace and manager: manage skills from all local coding agents (10+ executors, incl. Claude Code and Codex) in one page and import them into the DSH skill library; built-in market of 6600+ skills, per-skill token-overhead stats, and model visibility control.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-tasks</title>
-    <id>https://github.com/weibaohui/dsh-tasks</id>
-    <link href="https://github.com/weibaohui/dsh-tasks"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/experts-management</title>
-    <id>https://github.com/weibaohui/experts-management</id>
-    <link href="https://github.com/weibaohui/experts-management"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>Expert manager: manage ntd-format experts and expert teams (plugin.json + Agent MD + skill sets), browse and install from a built-in market of 50+ experts, and run tasks in an expert persona via /expert-&lt;name&gt; without consuming model directory tokens.</summary>
   </entry>
 </feed>
