@@ -20,6 +20,13 @@
     <summary>Session workspace file manager: adds a &quot;Files&quot; tab to the conversation area to browse the current session workspace directory tree and manage it in place (upload, download, mkdir, rename, delete, search), with files mentionable into the composer for the agent to process.</summary>
   </entry>
   <entry>
+    <title>weibaohui/dsh-fde-tools</title>
+    <id>https://github.com/weibaohui/dsh-fde-tools</id>
+    <link href="https://github.com/weibaohui/dsh-fde-tools"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>FDE toolbox bundle: installing this one plugin pulls in a curated set of common dsh plugins (git server, WebDAV mount, knowledge base, scheduled tasks, auto-resume, UI tweaks, auto-retrospection, file manager, smart titles, task board, plugin market, context trimmer, IM bridge, sidebar enhancements), with a panel showing install status and one-click gap-filling.</summary>
+  </entry>
+  <entry>
     <title>weibaohui/dsh-sync</title>
     <id>https://github.com/weibaohui/dsh-sync</id>
     <link href="https://github.com/weibaohui/dsh-sync"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/weibaohui/context-razor"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>Context trimmer: lists the current session's context entries with role, preview and ≈token estimate (cl100k), highlights over-threshold items, and removes selected entries exactly without LLM summarization.</summary>
-  </entry>
-  <entry>
-    <title>nvbb/dsh-ollama-vision-bridge</title>
-    <id>https://github.com/nvbb/dsh-ollama-vision-bridge</id>
-    <link href="https://github.com/nvbb/dsh-ollama-vision-bridge"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>When the chat model is text-only, describe attached images with a local Ollama VL model (qwen3-vl:8b) and inject into the same model step: local vision, no cloud (DSH ≥ 0.1.2-rc.1).</summary>
   </entry>
 </feed>

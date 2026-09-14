@@ -20,6 +20,13 @@
     <summary>会话工作区文件管理：在对话区加「文件」tab，浏览当前会话工作区的目录树并就地管理（上传/下载/新建文件夹/改名/删除/搜索），文件可 @ 进对话框给 agent 处理。</summary>
   </entry>
   <entry>
+    <title>weibaohui/dsh-fde-tools</title>
+    <id>https://github.com/weibaohui/dsh-fde-tools</id>
+    <link href="https://github.com/weibaohui/dsh-fde-tools"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>FDE 工具箱全家桶：安装一个插件带上一批常用 dsh 插件（代码仓库 / 挂载盘 / 知识库 / 定时任务 / 自动续跑 / 界面微调 / 自动复盘 / 文件管理 / 智能标题 / 任务看板 / 插件市场 / 上下文 / IM 接入 / 侧栏增强），面板看状态、一键补装。</summary>
+  </entry>
+  <entry>
     <title>weibaohui/dsh-sync</title>
     <id>https://github.com/weibaohui/dsh-sync</id>
     <link href="https://github.com/weibaohui/dsh-sync"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/weibaohui/context-razor"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>上下文剃刀：把当前会话上下文逐条列出（角色/预览/≈token 估算），超阈值标红，勾选后不经 LLM 精确裁剪，删了什么一目了然。</summary>
-  </entry>
-  <entry>
-    <title>nvbb/dsh-ollama-vision-bridge</title>
-    <id>https://github.com/nvbb/dsh-ollama-vision-bridge</id>
-    <link href="https://github.com/nvbb/dsh-ollama-vision-bridge"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>聊天选中纯文本模型时，自动用本地 Ollama VL 模型（qwen3-vl:8b）描述附图并注入同一模型步骤：本地视觉、显存冷却、无需云端（DSH ≥ 0.1.2-rc.1）。</summary>
   </entry>
 </feed>

@@ -32,7 +32,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 </details>
 
-**497** 个插件 · 欢迎 [PR](#贡献)
+**498** 个插件 · 欢迎 [PR](#贡献)
 
 ## 目录
 
@@ -538,6 +538,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [vibeinging/dsh-agent-budget](https://github.com/vibeinging/dsh-agent-budget) — agent 树 token 预算管理。
 - [vibeinging/dsh-trace](https://github.com/vibeinging/dsh-trace) — 遥测后端：把 turns、model steps、tool calls 导出到 yiTrace。
 - [vlln/plugin-registry](https://github.com/vlln/plugin-registry) — 插件生态基建：浏览器面板管理官方 repository 插件（0 patch）+ make-dsh-plugin 插件开发引导技能。
+- [weibaohui/dsh-fde-tools](https://github.com/weibaohui/dsh-fde-tools) — FDE 工具箱全家桶：安装一个插件带上一批常用 dsh 插件（代码仓库 / 挂载盘 / 知识库 / 定时任务 / 自动续跑 / 界面微调 / 自动复盘 / 文件管理 / 智能标题 / 任务看板 / 插件市场 / 上下文 / IM 接入 / 侧栏增强），面板看状态、一键补装。
 - [weibaohui/dsh-git-server](https://github.com/weibaohui/dsh-git-server) — Git 服务器：内嵌 ts-gogs（Gogs 的 TypeScript 平替），独立端口跑完整 Git 服务（HTTP clone/push、网页端、issue/PR/wiki），可复用 user-management 的用户名密码，设置页一键启停。
 - [weibaohui/dsh-sync](https://github.com/weibaohui/dsh-sync) — 多机同步：让多台机器上的 dsh 通过一个私有 GitCode 仓库保持一致——技能、会话、设置、插件清单四类内容各有独立开关；变更走分支 → PR → 合并，推送前自动回填远端新增防误删，支持 AI 智能对齐（语义合并双方改动）与一键解决冲突；强制私有仓库，pull 不覆盖本地改动。
 - [weibaohui/dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) — WebDAV 服务器：把一个共享目录变成 Windows/macOS/Linux 都能挂载成本地磁盘的 WebDAV 服务，令牌认证、可选只读、目录/端口/令牌全可配，设置页自带三平台挂载指南。
@@ -548,7 +549,6 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [xingyingyuzhui/dsh-updater-ui](https://github.com/xingyingyuzhui/dsh-updater-ui) — 设置页中的 DSH 自助更新器：一键检查/拉取（git pull --ff-only）、自动后台检查、版本对比与更新说明预览，带红点提醒。
 - [yflmq001/dsh-cost-tracker](https://github.com/yflmq001/dsh-cost-tracker) — 按模型追踪 token 成本：可配置缓存命中/未命中、输出与高峰时段单价，实时会话花费条，并标记未配置价格的模型。
 - [Yuuz12/dsh-webui-auth](https://github.com/Yuuz12/dsh-webui-auth) — WebUI 身份认证：HTTP/传输层强制登录（资源、插件 bundle、/api、WebSocket 四层防护），服务端会话 + HttpOnly Cookie。
-- [weibaohui/dsh-fde-tools](https://github.com/weibaohui/dsh-fde-tools) — FDE 工具箱全家桶：安装一个插件带上一批常用 dsh 插件（代码仓库 / 挂载盘 / 知识库 / 定时任务 / 自动续跑 / 界面微调 / 自动复盘 / 文件管理 / 智能标题 / 任务看板 / 插件市场 / 上下文 / IM 接入 / 侧栏增强），面板看状态、一键补装。
 
 ### 🎮 娱乐
 - [AnacondaKC/dsh-douyin](https://github.com/AnacondaKC/dsh-douyin) — 侧栏短视频：原生播放器、系列导航、精确历史回放。

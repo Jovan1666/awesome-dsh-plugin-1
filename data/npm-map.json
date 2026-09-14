@@ -1767,6 +1767,10 @@
   "npm": "@weibaohui/dsh-continue",
   "checkedAt": "2026-09-06"
  },
+ "https://github.com/weibaohui/dsh-fde-tools": {
+  "npm": "@weibaohui/dsh-fde-tools",
+  "checkedAt": "2026-09-14"
+ },
  "https://github.com/weibaohui/dsh-file-share": {
   "npm": "@weibaohui/dsh-file-share",
   "checkedAt": "2026-09-14"

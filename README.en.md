@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**497** plugins · [PRs welcome](#contributing)
+**498** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -538,6 +538,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [vibeinging/dsh-agent-budget](https://github.com/vibeinging/dsh-agent-budget) - Agent-tree token budget management.
 - [vibeinging/dsh-trace](https://github.com/vibeinging/dsh-trace) - Telemetry backend exporting turns, model steps, and tool calls to yiTrace.
 - [vlln/plugin-registry](https://github.com/vlln/plugin-registry) - Ecosystem infrastructure: a thin browser console for managing official repository plugins (zero patches) plus a make-dsh-plugin skill for guided plugin development.
+- [weibaohui/dsh-fde-tools](https://github.com/weibaohui/dsh-fde-tools) - FDE toolbox bundle: installing this one plugin pulls in a curated set of common dsh plugins (git server, WebDAV mount, knowledge base, scheduled tasks, auto-resume, UI tweaks, auto-retrospection, file manager, smart titles, task board, plugin market, context trimmer, IM bridge, sidebar enhancements), with a panel showing install status and one-click gap-filling.
 - [weibaohui/dsh-git-server](https://github.com/weibaohui/dsh-git-server) - Git server: embeds ts-gogs (a TypeScript reimplementation of Gogs) and serves a full Git service on its own port - HTTP clone/push, web UI, issues/PRs/wiki - reusing user-management credentials, start/stop from the settings page.
 - [weibaohui/dsh-sync](https://github.com/weibaohui/dsh-sync) - Multi-machine sync: keeps multiple dsh replicas consistent through one private GitCode repository - skills, sessions, settings and plugin manifests each with an independent switch; changes go through branch, PR and merge, remote-only additions are pulled back before every push so nothing is deleted, and an AI smart-align step semantically merges files both sides changed (plus one-click conflict resolution); private repos enforced, pull never overwrites local edits.
 - [weibaohui/dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) - WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page.
@@ -548,7 +549,6 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [xingyingyuzhui/dsh-updater-ui](https://github.com/xingyingyuzhui/dsh-updater-ui) - DSH self-updater in the settings page: one-click check/pull (`git pull --ff-only`), auto background checks, version diff and changelog preview with a red-dot reminder.
 - [yflmq001/dsh-cost-tracker](https://github.com/yflmq001/dsh-cost-tracker) - Per-model token cost tracking with configurable cache-hit/miss, output and peak-window pricing, a live session cost bar, and unconfigured-model flags.
 - [Yuuz12/dsh-webui-auth](https://github.com/Yuuz12/dsh-webui-auth) - WebUI authentication enforced at the HTTP/transport layer: four-layer login gate (resources, plugin bundles, /api, WebSocket), server-side sessions with HttpOnly cookies.
-- [weibaohui/dsh-fde-tools](https://github.com/weibaohui/dsh-fde-tools) - FDE toolbox bundle: installing this one plugin pulls in a curated set of common dsh plugins (git server, WebDAV mount, knowledge base, scheduled tasks, auto-resume, UI tweaks, auto-retrospection, file manager, smart titles, task board, plugin market, context trimmer, IM bridge, sidebar enhancements), with a panel showing install status and one-click gap-filling.
 
 ### Just for Fun
 - [AnacondaKC/dsh-douyin](https://github.com/AnacondaKC/dsh-douyin) - Short-video sidebar: native player, series navigation, precise history replay.
