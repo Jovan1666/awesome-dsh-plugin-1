@@ -1846,7 +1846,7 @@
     "en": "Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it."
    },
    "npm": "dsh-filesnap",
-   "stars": 42,
+   "stars": 43,
    "createdAt": "2026-08-27",
    "install": "dsh plugin --profile web add dsh-filesnap",
    "added": "2026-09-06"
