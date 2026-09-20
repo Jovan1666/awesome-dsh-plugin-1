@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-14T00:00:00Z</updated>
+  <updated>2026-09-20T00:00:00Z</updated>
+  <entry>
+    <title>PerryLink/dsh-plugin-upgrade</title>
+    <id>https://github.com/PerryLink/dsh-plugin-upgrade</id>
+    <link href="https://github.com/PerryLink/dsh-plugin-upgrade"/>
+    <updated>2026-09-20T00:00:00Z</updated>
+    <summary>走廊索引式插件升级技能：读取目标仓库声明的 peer band，路由到匹配的闭合走廊卡，再用零依赖 seam 扫描器核查；以随包技能与 npx CLI 交付。</summary>
+  </entry>
   <entry>
     <title>weibaohui/dsh-kb</title>
     <id>https://github.com/weibaohui/dsh-kb</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/SunshineR04/dsh-session-manager"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>归档会话管理：设置页列出/恢复/彻底删除（直接物理删除，无备份层），会话菜单红色删除项与三个 agent 工具；已打开的会话也能立即删除（墓碑隐藏，重启后自动清理）。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/context-razor</title>
-    <id>https://github.com/weibaohui/context-razor</id>
-    <link href="https://github.com/weibaohui/context-razor"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>上下文剃刀：把当前会话上下文逐条列出（角色/预览/≈token 估算），超阈值标红，勾选后不经 LLM 精确裁剪，删了什么一目了然。</summary>
   </entry>
 </feed>

@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**498** plugins · [PRs welcome](#contributing)
+**499** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -524,10 +524,10 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [omdsh-dev/sandbox-mxc](https://github.com/omdsh-dev/sandbox-mxc) - Microsoft cross-platform sandbox support.
 - [omdsh-dev/sandbox-nono](https://github.com/omdsh-dev/sandbox-nono) - Support for the nono sandbox backend.
 - [PerryLink/dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) - Read-only MCP server exposing the dsh-plugin-certification registry: certification grades, snapshot dates, and five-dimension evidence for DeepSeek Harness plugins, over stdio with zero runtime dependencies.
-- [PerryLink/dsh-plugin-upgrade](https://github.com/PerryLink/dsh-plugin-upgrade) - One package, one corridor index: it reads the target repository peer band, routes to the matching closed upgrade corridor card, and runs a zero-dependency seam scanner, shipped as a bundle skill and an npx CLI.
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) - Read-only runtime management panel for the official DSH MCP client: connection status, registered tools, errors, and reconnect counts through the /mcp command and a Settings tab, with sanitized display and enable/disable patch suggestions.
 - [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) - Zero-dependency static + sandbox smoke detector for DeepSeek Harness plugins: package-structure checks (R), a Cordis contract scan (K), dynamic sandbox smoke tests (D), and an ecosystem collection-site checklist (CC) in one run.
 - [PerryLink/dsh-plugin-kit](https://github.com/PerryLink/dsh-plugin-kit) - Shared zero-runtime-dependency toolkit for the PerryLink DSH plugin family: a pluggable Provider seam, fail-closed approval and adaptive session-event gates, verify scripts, and shared sanitize/pricing/judge modules in one ESM + TypeScript package.
+- [PerryLink/dsh-plugin-upgrade](https://github.com/PerryLink/dsh-plugin-upgrade) - One package, one corridor index: it reads the target repository peer band, routes to the matching closed upgrade corridor card, and runs a zero-dependency seam scanner, shipped as a bundle skill and an npx CLI.
 - [PerryLink/dsh-plugin-upgrade-015](https://github.com/PerryLink/dsh-plugin-upgrade-015) - Merged, version-locked plugin upgrade skill for DeepSeek Harness (0.1.3-alpha.1 to 0.1.5-rc.1 as two closed legs): an evidence-bound version card plus a zero-dependency 20-seam scanner, as a bundle skill and an npx CLI.
 - [ruimin251204/dsh-plugin-surgery](https://github.com/ruimin251204/dsh-plugin-surgery) - Plugin surgery: safe uninstall (dry-run impact preview, snapshot, three-way verification, auto-rollback on failure), one-click rollback, restart-pending confirmation, and a plugin doctor.
 - [sandbaseai/dsh-plugin-store](https://github.com/sandbaseai/dsh-plugin-store) - Native DSH Settings marketplace for community catalog search, tag filtering, plugin installation, and installed-package review.

@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-09-14T00:00:00Z</updated>
+  <updated>2026-09-20T00:00:00Z</updated>
+  <entry>
+    <title>PerryLink/dsh-plugin-upgrade</title>
+    <id>https://github.com/PerryLink/dsh-plugin-upgrade</id>
+    <link href="https://github.com/PerryLink/dsh-plugin-upgrade"/>
+    <updated>2026-09-20T00:00:00Z</updated>
+    <summary>One package, one corridor index: it reads the target repository peer band, routes to the matching closed upgrade corridor card, and runs a zero-dependency seam scanner, shipped as a bundle skill and an npx CLI.</summary>
+  </entry>
   <entry>
     <title>weibaohui/dsh-kb</title>
     <id>https://github.com/weibaohui/dsh-kb</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/SunshineR04/dsh-session-manager"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>Archived-session management: list, restore, or permanently delete (direct physical delete, no backup layer) from the Settings page, with a red delete entry in the session menu and three agent tools; open sessions can be deleted instantly too (tombstone-hidden, auto-cleaned on restart).</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/context-razor</title>
-    <id>https://github.com/weibaohui/context-razor</id>
-    <link href="https://github.com/weibaohui/context-razor"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>Context trimmer: lists the current session's context entries with role, preview and ≈token estimate (cl100k), highlights over-threshold items, and removes selected entries exactly without LLM summarization.</summary>
   </entry>
 </feed>

@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-09-14",
- "count": 498,
+ "updated": "2026-09-20",
+ "count": 499,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -6845,6 +6845,21 @@
    "createdAt": "2026-08-26",
    "install": "dsh plugin --profile web add @perrylink/dsh-plugin-kit",
    "added": "2026-09-13"
+  },
+  {
+   "name": "dsh-plugin-upgrade",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-plugin-upgrade",
+   "category": "dev",
+   "description": {
+    "zh": "走廊索引式插件升级技能：读取目标仓库声明的 peer band，路由到匹配的闭合走廊卡，再用零依赖 seam 扫描器核查；以随包技能与 npx CLI 交付。",
+    "en": "One package, one corridor index: it reads the target repository peer band, routes to the matching closed upgrade corridor card, and runs a zero-dependency seam scanner, shipped as a bundle skill and an npx CLI."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:PerryLink/dsh-plugin-upgrade",
+   "added": "2026-09-20"
   },
   {
    "name": "dsh-plugin-upgrade-015",
