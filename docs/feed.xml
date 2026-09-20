@@ -4,215 +4,215 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-08-18T00:00:00Z</updated>
+  <updated>2026-09-14T00:00:00Z</updated>
   <entry>
-    <title>dsh-custom-theme-import</title>
-    <id>https://github.com/Juryorca/dsh-custom-theme-import</id>
-    <link href="https://github.com/Juryorca/dsh-custom-theme-import"/>
-    <updated>2026-08-18T00:00:00Z</updated>
-    <summary>DSH Web 自定义主题导入插件：支持本地路径/GitHub 集合一键导入、主题预览与实时刷新、托管主题库；格式轻量，作者可直接改 CSS/DOM 文件热加载，适合个人主题开发与分享。</summary>
+    <title>weibaohui/dsh-kb</title>
+    <id>https://github.com/weibaohui/dsh-kb</id>
+    <link href="https://github.com/weibaohui/dsh-kb"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>团队知识库：离线知识共享（FDE 盒子场景），浏览/全文检索/加工入口；raw 入料自动入队、bot 会话串行蒸馏成文（Karpathy LLM Wiki 模式：raw 不可变 / 两步加工 / log 流水 / 月度 lint）。</summary>
   </entry>
   <entry>
-    <title>xiejianjun000/eco-dsh-plugins</title>
-    <id>https://github.com/xiejianjun000/eco-dsh-plugins</id>
-    <link href="https://github.com/xiejianjun000/eco-dsh-plugins"/>
-    <updated>2026-08-18T00:00:00Z</updated>
-    <summary>评分制记忆树插件 eco-memory-tree：结构化长期记忆，BM25/中文检索，Obsidian 双向同步。</summary>
+    <title>weibaohui/dsh-file-share</title>
+    <id>https://github.com/weibaohui/dsh-file-share</id>
+    <link href="https://github.com/weibaohui/dsh-file-share"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>会话工作区文件管理：在对话区加「文件」tab，浏览当前会话工作区的目录树并就地管理（上传/下载/新建文件夹/改名/删除/搜索），文件可 @ 进对话框给 agent 处理。</summary>
   </entry>
   <entry>
-    <title>Letter2025/dsh-task-worktree</title>
-    <id>https://github.com/Letter2025/dsh-task-worktree</id>
-    <link href="https://github.com/Letter2025/dsh-task-worktree"/>
-    <updated>2026-08-18T00:00:00Z</updated>
-    <summary>完整的任务级 git worktree：per-repo manifest 永久保存、worktree-&lt;name&gt; 分支、主目录带回（bring-back）与直接提交两种收尾、可携带主工作区未提交改动（参考 Qoder / Codex / Claude Code）。</summary>
+    <title>weibaohui/dsh-fde-tools</title>
+    <id>https://github.com/weibaohui/dsh-fde-tools</id>
+    <link href="https://github.com/weibaohui/dsh-fde-tools"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>FDE 工具箱全家桶：安装一个插件带上一批常用 dsh 插件（代码仓库 / 挂载盘 / 知识库 / 定时任务 / 自动续跑 / 界面微调 / 自动复盘 / 文件管理 / 智能标题 / 任务看板 / 插件市场 / 上下文 / IM 接入 / 侧栏增强），面板看状态、一键补装。</summary>
   </entry>
   <entry>
-    <title>PolinniZhong/dsh-omi-voice</title>
-    <id>https://github.com/PolinniZhong/dsh-omi-voice</id>
-    <link href="https://github.com/PolinniZhong/dsh-omi-voice"/>
-    <updated>2026-08-18T00:00:00Z</updated>
-    <summary>豆包音质对话内朗读：每条 AI 回复 🔊 点读/自动朗读（默认关、状态持久化），音色由本地 Omi 引擎合成（豆包 seed-tts），BYOK（Key 只留在本机 Keychain，插件零 Key）。</summary>
+    <title>weibaohui/dsh-sync</title>
+    <id>https://github.com/weibaohui/dsh-sync</id>
+    <link href="https://github.com/weibaohui/dsh-sync"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>多机同步：让多台机器上的 dsh 通过一个私有 GitCode 仓库保持一致——技能、会话、设置、插件清单四类内容各有独立开关；变更走分支 → PR → 合并，推送前自动回填远端新增防误删，支持 AI 智能对齐（语义合并双方改动）与一键解决冲突；强制私有仓库，pull 不覆盖本地改动。</summary>
   </entry>
   <entry>
-    <title>yanglaofish/dsh-skill-manager</title>
-    <id>https://github.com/yanglaofish/dsh-skill-manager</id>
-    <link href="https://github.com/yanglaofish/dsh-skill-manager"/>
-    <updated>2026-08-18T00:00:00Z</updated>
-    <summary>DSH 技能生命周期管理插件：全局 / 工作区 / 会话三层模型下查看、编辑、导入、启用/停用技能，设置页与对话页统一管理界面，支持跨层全文搜索与分页。</summary>
+    <title>dugujun3-cloud/dsh-wallpaper</title>
+    <id>https://github.com/dugujun3-cloud/dsh-wallpaper</id>
+    <link href="https://github.com/dugujun3-cloud/dsh-wallpaper"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>整站背景图切换：设置页「背景图片」行打开居中选择器，可浏览本地壁纸库、搜索 wallhaven（仅 SFW 动漫）或从磁盘导入，右键卡片设为背景或打开原图页面；填充方式、模糊、遮罩与内容纱罩均可调，卸载后无残留。</summary>
   </entry>
   <entry>
-    <title>odai-dsh-plugin</title>
-    <id>https://github.com/orziz/odai/tree/main/dsh/plugin</id>
-    <link href="https://github.com/orziz/odai/tree/main/dsh/plugin"/>
-    <updated>2026-08-18T00:00:00Z</updated>
-    <summary>面向整个 DSH profile 的治理与路由 bundle，提供可配置的压缩调用与本地作用域语义记忆；兼容 DSH 0.1.0-rc.6 与 0.1.0-rc.7。</summary>
+    <title>PerryLink/dsh-data-quality</title>
+    <id>https://github.com/PerryLink/dsh-data-quality</id>
+    <link href="https://github.com/PerryLink/dsh-data-quality"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>确定性数据画像、清洗与核验：ctx.dataQuality 能力接缝提供三个模型工具与跨插件引文核验冻结契约——全部计算由 TypeScript 完成，模型不碰算术。</summary>
   </entry>
   <entry>
-    <title>daetz-coder/dsh-multi-chat</title>
-    <id>https://github.com/daetz-coder/dsh-multi-chat</id>
-    <link href="https://github.com/daetz-coder/dsh-multi-chat"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>在 DSH Web 界面里并排运行、监控多个对话实例的插件：多窗口墙 + 自动发现 + 单窗控制，内置带口令认证的局域网网关，手机/平板也能看。</summary>
+    <title>PerryLink/dsh-fund-research</title>
+    <id>https://github.com/PerryLink/dsh-fund-research</id>
+    <link href="https://github.com/PerryLink/dsh-fund-research"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>中国公募基金确定性研究报告：每个关键数字都回溯到哈希封存的数据快照——缺口如实声明、绝不编造；仅供研究，不构成投资建议。</summary>
   </entry>
   <entry>
-    <title>stopchewing/dsh-mcp-view</title>
-    <id>https://github.com/stopchewing/dsh-mcp-view</id>
-    <link href="https://github.com/stopchewing/dsh-mcp-view"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>MCP 服务器与工具清单面板：侧边栏一键悬浮面板，按服务器分组展示全部 MCP 工具（传输方式、端点、JSON Schema、最近使用时间），默认折叠、支持搜索与实时刷新；最近使用时间来自真实会话日志。</summary>
+    <title>PerryLink/dsh-industry-research</title>
+    <id>https://github.com/PerryLink/dsh-industry-research</id>
+    <link href="https://github.com/PerryLink/dsh-industry-research"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>行业与公司研究领域包：产业链建图、公开源动态跟踪、公司速览卡与可审计报告——每个数字可溯源，每个缺口都如实声明。</summary>
   </entry>
   <entry>
-    <title>WFMinerva/dsh-turn-cost</title>
-    <id>https://github.com/WFMinerva/dsh-turn-cost</id>
-    <link href="https://github.com/WFMinerva/dsh-turn-cost"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>每条 AI 回复下方显示该轮真实花费：人民币、官方峰谷价、缓存读占比；纯本地读会话日志，零上报零密钥。</summary>
+    <title>PerryLink/dsh-research-report</title>
+    <id>https://github.com/PerryLink/dsh-research-report</id>
+    <link href="https://github.com/PerryLink/dsh-research-report"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>可验证研究报告引擎：每条结论绑定不可变证据快照并逐字节核验，封存为版本化报告，其清单哈希可复算。</summary>
   </entry>
   <entry>
-    <title>xiaogu619520/dsh-plugin-task-panel</title>
-    <id>https://github.com/xiaogu619520/dsh-plugin-task-panel</id>
-    <link href="https://github.com/xiaogu619520/dsh-plugin-task-panel"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>任务摘要与上下文用量监控浮动面板（待办事项跟踪、文件与系统 Token 占用统计、8向缩放与快捷键）。</summary>
+    <title>PerryLink/dsh-team-rooms</title>
+    <id>https://github.com/PerryLink/dsh-team-rooms</id>
+    <link href="https://github.com/PerryLink/dsh-team-rooms"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>持久化、跨会话的多 Agent 团队房间：成员、消息总线、共享任务板与共享时间线，重启后仍然保留。</summary>
   </entry>
   <entry>
-    <title>yoli-mi/dsh-client-ui-custom</title>
-    <id>https://github.com/yoli-mi/dsh-client-ui-custom</id>
-    <link href="https://github.com/yoli-mi/dsh-client-ui-custom"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>Web 外观主题定制（壁纸、毛玻璃、强调色、预设）、键盘快捷键、用量统计、插件市场、浮动历史条与用户消息 Markdown 渲染。</summary>
+    <title>weibaohui/dsh-process</title>
+    <id>https://github.com/weibaohui/dsh-process</id>
+    <link href="https://github.com/weibaohui/dsh-process"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>工艺管理：把 ntd 的「工艺」（多阶段·多环节 agent 工作流模板）接进 dsh web——浏览/编辑/校验/导入导出/AI 生成工艺，内置库只读、我的库可写，文件改动实时同步；agent 可通过 process_* 工具读工艺库、按工艺分阶段推进。</summary>
   </entry>
   <entry>
-    <title>zh667/TokenLedger</title>
-    <id>https://github.com/zh667/TokenLedger</id>
-    <link href="https://github.com/zh667/TokenLedger"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>按中转站点、项目和模型统计本地 DSH Token 用量，并显示账户余额与订阅额度周期。</summary>
+    <title>PerryLink/dsh-reach</title>
+    <id>https://github.com/PerryLink/dsh-reach</id>
+    <link href="https://github.com/PerryLink/dsh-reach"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>多渠道决策与遥控桥：把 DSH 的审批与提问卡片推送到 IM 渠道（微信 iLink、Telegram、飞书）并在聊天内作答，附会话控制台、按渠道安全策略与开放推送服务。</summary>
   </entry>
   <entry>
-    <title>Braidy-Wu/dsh-conversation-minimap</title>
-    <id>https://github.com/Braidy-Wu/dsh-conversation-minimap</id>
-    <link href="https://github.com/Braidy-Wu/dsh-conversation-minimap"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>DSH Web GUI 对话迷你地图（复刻 ChatGPT 桌面端）：每轮 Prompt 一个等距胶囊锚点，鱼眼钟形悬停放大 + 完整 Prompt 预览，顶部/底部渐隐，蓝色高亮跟随当前 Prompt，点击跳转对应消息，自动拉取完整历史。</summary>
+    <title>PerryLink/dsh-ticktick</title>
+    <id>https://github.com/PerryLink/dsh-ticktick</id>
+    <link href="https://github.com/PerryLink/dsh-ticktick"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>TickTick / Dida365（滴答清单）任务桥：会话头部任务面板（列表筛选、快速添加、完成、删除、截止日期、拖拽排序）、11 个精选 agent 工具、插件设置卡片与类型化 Remote 服务，全部走官方 TickTick MCP 端点。</summary>
   </entry>
   <entry>
-    <title>dsh-odette-skin</title>
-    <id>https://github.com/lkdx0220/Genshin-odette-skin-dsh</id>
-    <link href="https://github.com/lkdx0220/Genshin-odette-skin-dsh"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>DSH 原神「奥黛塔」主题 UI 皮肤：深/浅双模式背景图 + 13 个主题 token 毛玻璃覆盖 + 侧栏 Q 版小兽皮肤开关，npm 即装即用。</summary>
+    <title>PerryLink/dsh-autotier</title>
+    <id>https://github.com/PerryLink/dsh-autotier</id>
+    <link href="https://github.com/PerryLink/dsh-autotier"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>自动模型档位路由：一条用户指令进入、一个档位决策出来——复杂意图由强档规划、廉价档执行，确定性护栏 + TTL 升级回退。</summary>
   </entry>
   <entry>
-    <title>RevolutionLA/dsh-dream-skin</title>
-    <id>https://github.com/RevolutionLA/dsh-dream-skin</id>
-    <link href="https://github.com/RevolutionLA/dsh-dream-skin"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>DSH Web 一键换肤插件：8 套原创主题、背景壁纸（透明度/模糊/渐变/URL）、每用户强调色、主题包导入导出与分享链接、收藏与随机，纯原生 token 系统。</summary>
+    <title>PerryLink/dsh-cert-mcp</title>
+    <id>https://github.com/PerryLink/dsh-cert-mcp</id>
+    <link href="https://github.com/PerryLink/dsh-cert-mcp"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>只读 MCP 服务器，暴露 dsh-plugin-certification 认证注册表：认证等级、快照日期与 DeepSeek Harness 插件五维证据，stdio 传输、零运行时依赖。</summary>
   </entry>
   <entry>
-    <title>chenproton/dsh-history</title>
-    <id>https://github.com/chenproton/dsh-history</id>
-    <link href="https://github.com/chenproton/dsh-history"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>会话历史消息查看：列出当前会话全部你发送的消息，支持排序、搜索、一键复制与点击跳转定位（目标未加载时自动加载更早历史）。</summary>
+    <title>PerryLink/dsh-plugin-doctor</title>
+    <id>https://github.com/PerryLink/dsh-plugin-doctor</id>
+    <link href="https://github.com/PerryLink/dsh-plugin-doctor"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>零依赖的 DeepSeek Harness 插件「完整性 + 运行流畅」检测器：包结构静态检查（R）→ Cordis 契约扫描（K）→ 动态沙箱冒烟（D）→ 生态集合站清单校验（CC），一次运行覆盖四层。</summary>
   </entry>
   <entry>
-    <title>session-titler</title>
-    <id>https://github.com/JohnXu22786/session-titler</id>
-    <link href="https://github.com/JohnXu22786/session-titler"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>双阶段会话标题生成：忙碌时即时关键词标题，空闲时由经济模型精修。</summary>
+    <title>PerryLink/dsh-plugin-kit</title>
+    <id>https://github.com/PerryLink/dsh-plugin-kit</id>
+    <link href="https://github.com/PerryLink/dsh-plugin-kit"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>PerryLink DSH 插件家族共享的零运行时依赖工具包：可插拔 Provider 接缝、fail-closed 审批门与自适应会话事件门、校验脚本与共享 sanitize/pricing/judge 纯模块，合为一个 ESM + TypeScript 包。</summary>
   </entry>
   <entry>
-    <title>sjh9714/dsh-what-changed</title>
-    <id>https://github.com/sjh9714/dsh-what-changed</id>
-    <link href="https://github.com/sjh9714/dsh-what-changed"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>整会话改动审阅。会话顶栏列出本次 Agent 写过的每个文件与逐处改动，被权限拒绝的写入单独计数不算改动，数据来自 session projection。</summary>
+    <title>PerryLink/dsh-plugin-upgrade-015</title>
+    <id>https://github.com/PerryLink/dsh-plugin-upgrade-015</id>
+    <link href="https://github.com/PerryLink/dsh-plugin-upgrade-015"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>合并后的版本锁定插件升级技能（0.1.3-alpha.1 → 0.1.5-rc.1，两条闭环腿）：证据绑定版本卡 + 零依赖 20 接缝扫描器，以 bundle 技能 + npx CLI 两种形态发布。</summary>
   </entry>
   <entry>
-    <title>Breeze136/dsh-kb-rag</title>
-    <id>https://github.com/Breeze136/dsh-kb-rag</id>
-    <link href="https://github.com/Breeze136/dsh-kb-rag"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>本地文献知识库 RAG：8 个工具（PDF/文件夹/Zotero 入库、BM25+向量+重排混合检索、DOI 可点击溯源问答、范围/严格模式、去重/清空/统计），全本地 bge 嵌入 + 单文件 SQLite，实测 242 篇 86s 入库、2 万块亚秒热查询。</summary>
+    <title>weibaohui/dsh-git-server</title>
+    <id>https://github.com/weibaohui/dsh-git-server</id>
+    <link href="https://github.com/weibaohui/dsh-git-server"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Git 服务器：内嵌 ts-gogs（Gogs 的 TypeScript 平替），独立端口跑完整 Git 服务（HTTP clone/push、网页端、issue/PR/wiki），可复用 user-management 的用户名密码，设置页一键启停。</summary>
   </entry>
   <entry>
-    <title>memory-vault</title>
-    <id>https://github.com/JohnXu22786/memory-vault</id>
-    <link href="https://github.com/JohnXu22786/memory-vault"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>跨会话持久记忆插件：SQLite 本地存储 + 关键词/语义混合检索 + Web/MCP 界面，供编码代理存取经验与决策。</summary>
+    <title>weibaohui/dsh-webdav-server</title>
+    <id>https://github.com/weibaohui/dsh-webdav-server</id>
+    <link href="https://github.com/weibaohui/dsh-webdav-server"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>WebDAV 服务器：把一个共享目录变成 Windows/macOS/Linux 都能挂载成本地磁盘的 WebDAV 服务，令牌认证、可选只读、目录/端口/令牌全可配，设置页自带三平台挂载指南。</summary>
   </entry>
   <entry>
-    <title>dsh-verify</title>
-    <id>https://github.com/263311487-ux/dsh-verify</id>
-    <link href="https://github.com/263311487-ux/dsh-verify"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>独立浏览器验收测试：JSON 清单驱动真实 Chromium，断言计算样式与像素差异，输出 HTML 报告 + 0/1 退出码；提供 npm CLI、GitHub Action 与 MCP Server。</summary>
+    <title>hutao562/dsh-remote-dsh</title>
+    <id>https://github.com/hutao562/dsh-remote-dsh</id>
+    <link href="https://github.com/hutao562/dsh-remote-dsh"/>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <summary>在侧边栏顶部加一行，点击后整页切换成另一台 DSH 主机的 Web GUI（通过回环端口访问），并在该行显示那台主机的会话状态（运行中、有新活动、正等你回答）。</summary>
   </entry>
   <entry>
-    <title>AlloyPlane/dsh-eye-vision</title>
-    <id>https://github.com/AlloyPlane/dsh-eye-vision</id>
-    <link href="https://github.com/AlloyPlane/dsh-eye-vision"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>纯文本模型识图桥接：通过任意 OpenAI 兼容多模态 API 提供 image_understand 工具（识图/OCR/UI 分析），支持允许目录白名单。</summary>
+    <title>busabase/busabase-dsh-plugin</title>
+    <id>https://github.com/busabase/busabase-dsh-plugin</id>
+    <link href="https://github.com/busabase/busabase-dsh-plugin"/>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <summary>通过 MCP 工具、权限感知的 ChangeRequest、结果卡片与实时记录检查器，将 DSH Agent 接入 Busabase。</summary>
   </entry>
   <entry>
-    <title>IWAIBAOLI/dsh-with-pencil</title>
-    <id>https://github.com/IWAIBAOLI/dsh-with-pencil</id>
-    <link href="https://github.com/IWAIBAOLI/dsh-with-pencil"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>将官方 pen.dev Pencil 设计能力接入 DeepSeek Harness：桥接官方 CLI，Agent 可在会话中编辑 .pen 文件，并针对 DeepSeek 纯文本模型做了专门优化。</summary>
+    <title>Nicholaskin/vision-exp-tile</title>
+    <id>https://github.com/Nicholaskin/vision-exp-tile</id>
+    <link href="https://github.com/Nicholaskin/vision-exp-tile"/>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <summary>面向视觉大模型的大图智能识图：800×800 无损切块识别（smart/pipeline/full 三策略）+ 本地 OCR（自动反色/二值化/手写分流）+ 可选多厂商 GPU 加速（DirectML 覆盖 NVIDIA/AMD/Intel，CUDA/OpenVINO），失败自动回退 CPU；MIT 开源（111 项单元测试）。</summary>
   </entry>
   <entry>
-    <title>adversarial-review</title>
-    <id>https://github.com/JohnXu22786/adversarial-review</id>
-    <link href="https://github.com/JohnXu22786/adversarial-review"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>gavel-review：对抗式多视角代码审查——并行攻击视角、确定性静态哨兵、严重度定级与审查历史。</summary>
+    <title>yindf/taskfold</title>
+    <id>https://github.com/yindf/taskfold</id>
+    <link href="https://github.com/yindf/taskfold"/>
+    <updated>2026-09-10T00:00:00Z</updated>
+    <summary>用命名任务包住工作过程；任务结束后在下一个步骤边界把整段消息折叠成一段摘要，原文可随时还原。</summary>
   </entry>
   <entry>
-    <title>browser-automation</title>
-    <id>https://github.com/JohnXu22786/browser-automation</id>
-    <link href="https://github.com/JohnXu22786/browser-automation"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>Web Bridge：面向 dsh 的浏览器自动化 MCP 服务器——真实浏览器导航、点击、填表、截图、JS 执行，无障碍快照驱动。</summary>
+    <title>lffrom0303/dsh-window98-theme</title>
+    <id>https://github.com/lffrom0303/dsh-window98-theme</id>
+    <link href="https://github.com/lffrom0303/dsh-window98-theme"/>
+    <updated>2026-09-09T00:00:00Z</updated>
+    <summary>DSH Web 客户端 Windows 98 复古皮肤：teal 桌面 + 银色面板、立体浮雕按钮、凹陷输入框、像素字体与棋盘格滚动条，浅色/深色双模式。</summary>
   </entry>
   <entry>
-    <title>codegraph</title>
-    <id>https://github.com/JohnXu22786/codegraph</id>
-    <link href="https://github.com/JohnXu22786/codegraph"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>代码知识图谱：把符号、调用点与导入索引进 SQLite，回答调用/依赖问题。</summary>
+    <title>weibaohui/dsh-smart-title</title>
+    <id>https://github.com/weibaohui/dsh-smart-title</id>
+    <link href="https://github.com/weibaohui/dsh-smart-title"/>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <summary>会话智能标题：每轮对话结束后用一次独立的辅助 LLM 调用对「用户消息+助手回答」的完整转写做总结，标题跟随会话真实主题而不是复述第一句话；首条消息即时生成标题、内置标题失败在后续轮次自动重试、用户手动改名绝不被覆盖、自动跳过子代理与 fork 会话。</summary>
   </entry>
   <entry>
-    <title>command-scout</title>
-    <id>https://github.com/JohnXu22786/command-scout</id>
-    <link href="https://github.com/JohnXu22786/command-scout"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>扫描项目声明的构建命令（Makefile、package.json scripts、justfile、deno tasks）并作为 agent 工具暴露。</summary>
+    <title>dugujun3-cloud/dshos-dock</title>
+    <id>https://github.com/dugujun3-cloud/dshos-dock</id>
+    <link href="https://github.com/dugujun3-cloud/dshos-dock"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>工作区 OS 状态条：输入框上方常驻显示任务统计（总数/进行中/待验收）、最近运行事件与自检日期；零依赖只读，数据来自工作区 .dshos/ 文本契约，兼容旧 DSH-OS 布局，30 秒自动刷新。</summary>
   </entry>
   <entry>
-    <title>computer-control</title>
-    <id>https://github.com/JohnXu22786/computer-control</id>
-    <link href="https://github.com/JohnXu22786/computer-control"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>桌面控制：屏幕捕获、指针/键盘注入、无障碍树操作、确认流程与紧急停止。</summary>
+    <title>YEYEYEYESHIFU/dsh-split-screen</title>
+    <id>https://github.com/YEYEYEYESHIFU/dsh-split-screen</id>
+    <link href="https://github.com/YEYEYEYESHIFU/dsh-split-screen"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>分屏工作区：多个会话并排聊天，面板观感与原生对话完全一致，Alt+T 切换 TUI 输入模式，Alt+Shift+方向键切换面板焦点。</summary>
   </entry>
   <entry>
-    <title>context-pruner</title>
-    <id>https://github.com/JohnXu22786/context-pruner</id>
-    <link href="https://github.com/JohnXu22786/context-pruner"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>会话上下文整理插件：修剪过期、重复、失败与过大的上下文以节省 token 预算。</summary>
+    <title>SunshineR04/dsh-session-manager</title>
+    <id>https://github.com/SunshineR04/dsh-session-manager</id>
+    <link href="https://github.com/SunshineR04/dsh-session-manager"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>归档会话管理：设置页列出/恢复/彻底删除（直接物理删除，无备份层），会话菜单红色删除项与三个 agent 工具；已打开的会话也能立即删除（墓碑隐藏，重启后自动清理）。</summary>
   </entry>
   <entry>
-    <title>docs-retriever</title>
-    <id>https://github.com/JohnXu22786/docs-retriever</id>
-    <link href="https://github.com/JohnXu22786/docs-retriever"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>doctrove：版本化库文档检索 MCP 服务器，零运行时依赖，可作 dsh 插件 bundle 安装。</summary>
+    <title>weibaohui/context-razor</title>
+    <id>https://github.com/weibaohui/context-razor</id>
+    <link href="https://github.com/weibaohui/context-razor"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>上下文剃刀：把当前会话上下文逐条列出（角色/预览/≈token 估算），超阈值标红，勾选后不经 LLM 精确裁剪，删了什么一目了然。</summary>
   </entry>
 </feed>
