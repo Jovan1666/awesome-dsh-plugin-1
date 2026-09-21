@@ -1,17 +1,3 @@
-> ⚠️ **转载声明（Fork Notice）**
->
-> 本仓库是 GitHub 项目 **[`
-beancookie/awesome-dsh-plugin
-`](https://github.com/
-beancookie/awesome-dsh-plugin
-)** 的 Gitee 转载镜像，**并非原始项目**；所有代码与内容的著作权归原作者及贡献者所有，按原许可证发布。
->
-> This repository is a Gitee repost (mirror) of the GitHub project [`
-beancookie/awesome-dsh-plugin
-`](https://github.com/
-beancookie/awesome-dsh-plugin
-) — **not the original project**. All code and content remain the property of their original authors and contributors, published under the original license.
-
 <p align="center">
   <a href="https://beancookie.github.io/awesome-dsh-plugin/zh/">
     <img src="https://beancookie.github.io/awesome-dsh-plugin/logo.png" alt="Awesome DSH Plugin" width="120">
@@ -19,8 +5,6 @@ beancookie/awesome-dsh-plugin
 </p>
 
 # Awesome DeepSeek Harness (DSH) Plugin
-
-[![Gitee](https://img.shields.io/badge/Gitee-mirror-c71d23?logo=gitee)](https://gitee.com/perrylink/beancookie.awesome-dsh-plugin)
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
