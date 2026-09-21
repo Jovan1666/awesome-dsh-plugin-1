@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-21",
- "count": 501,
+ "count": 502,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -575,6 +575,21 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:Jolly-J/dsh-deepseek-billing",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-commandcode-quota",
+   "owner": "Jovan1666",
+   "url": "https://github.com/Jovan1666/dsh-commandcode-quota",
+   "category": "ui",
+   "description": {
+    "zh": "在 DSH 侧边栏「设置」上方显示 Command Code 套餐额度：5 小时 / 每周 / 月度三条窗口的已用百分比、进度条与重置倒计时；另带 /quota 命令与零依赖命令行工具。",
+    "en": "Command Code plan quota card in the DSH sidebar above Settings: 5-hour, weekly and monthly windows as used percentages with reset countdowns, plus a /quota command and a zero-dependency CLI."
+   },
+   "npm": null,
+   "stars": 4,
+   "createdAt": "2026-09-17",
+   "install": "dsh plugin --profile web add github:Jovan1666/dsh-commandcode-quota",
+   "added": "2026-09-21"
   },
   {
    "name": "dsh-file-uploads",

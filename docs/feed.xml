@@ -13,6 +13,13 @@
     <summary>在 dsh Web 设置页里编辑原生 AGENTS.md 的面板：指令链上每层可点选编辑，三种生效范围，并可视化官方指令预算。</summary>
   </entry>
   <entry>
+    <title>Jovan1666/dsh-commandcode-quota</title>
+    <id>https://github.com/Jovan1666/dsh-commandcode-quota</id>
+    <link href="https://github.com/Jovan1666/dsh-commandcode-quota"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>在 DSH 侧边栏「设置」上方显示 Command Code 套餐额度：5 小时 / 每周 / 月度三条窗口的已用百分比、进度条与重置倒计时；另带 /quota 命令与零依赖命令行工具。</summary>
+  </entry>
+  <entry>
     <title>BOWLUNA/dsh-custom-mode</title>
     <id>https://github.com/BOWLUNA/dsh-custom-mode</id>
     <link href="https://github.com/BOWLUNA/dsh-custom-mode"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/weibaohui/dsh-smart-title"/>
     <updated>2026-09-08T00:00:00Z</updated>
     <summary>会话智能标题：每轮对话结束后用一次独立的辅助 LLM 调用对「用户消息+助手回答」的完整转写做总结，标题跟随会话真实主题而不是复述第一句话；首条消息即时生成标题、内置标题失败在后续轮次自动重试、用户手动改名绝不被覆盖、自动跳过子代理与 fork 会话。</summary>
-  </entry>
-  <entry>
-    <title>dugujun3-cloud/dshos-dock</title>
-    <id>https://github.com/dugujun3-cloud/dshos-dock</id>
-    <link href="https://github.com/dugujun3-cloud/dshos-dock"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>工作区 OS 状态条：输入框上方常驻显示任务统计（总数/进行中/待验收）、最近运行事件与自检日期；零依赖只读，数据来自工作区 .dshos/ 文本契约，兼容旧 DSH-OS 布局，30 秒自动刷新。</summary>
   </entry>
 </feed>
