@@ -4,7 +4,21 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-09-20T00:00:00Z</updated>
+  <updated>2026-09-21T00:00:00Z</updated>
+  <entry>
+    <title>Bay-Zeddie/dsh-agent-instructions</title>
+    <id>https://github.com/Bay-Zeddie/dsh-agent-instructions</id>
+    <link href="https://github.com/Bay-Zeddie/dsh-agent-instructions"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>Panel to edit dsh's native AGENTS.md from the web settings page: every layer in the instruction chain is clickable, three activation scopes, and a visual budget meter.</summary>
+  </entry>
+  <entry>
+    <title>BOWLUNA/dsh-custom-mode</title>
+    <id>https://github.com/BOWLUNA/dsh-custom-mode</id>
+    <link href="https://github.com/BOWLUNA/dsh-custom-mode"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>Manage dsh agent modes from the settings page: choose a base composition, toggle plugin rows, and edit the system prompt (takes effect on the next model step).</summary>
+  </entry>
   <entry>
     <title>PerryLink/dsh-plugin-upgrade</title>
     <id>https://github.com/PerryLink/dsh-plugin-upgrade</id>
@@ -200,19 +214,5 @@
     <link href="https://github.com/dugujun3-cloud/dshos-dock"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>Workspace OS status bar: task counts, latest run event, and checkup date above the input. Zero deps, read-only, .dshos/ text contract, legacy DSH-OS layout auto-detected, 30s refresh.</summary>
-  </entry>
-  <entry>
-    <title>YEYEYEYESHIFU/dsh-split-screen</title>
-    <id>https://github.com/YEYEYEYESHIFU/dsh-split-screen</id>
-    <link href="https://github.com/YEYEYEYESHIFU/dsh-split-screen"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>Split-screen workspaces: run multiple conversations side by side with panels identical to native chats; Alt+T toggles TUI input mode, Alt+Shift+arrow keys switch panel focus.</summary>
-  </entry>
-  <entry>
-    <title>SunshineR04/dsh-session-manager</title>
-    <id>https://github.com/SunshineR04/dsh-session-manager</id>
-    <link href="https://github.com/SunshineR04/dsh-session-manager"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>Archived-session management: list, restore, or permanently delete (direct physical delete, no backup layer) from the Settings page, with a red delete entry in the session menu and three agent tools; open sessions can be deleted instantly too (tombstone-hidden, auto-cleaned on restart).</summary>
   </entry>
 </feed>

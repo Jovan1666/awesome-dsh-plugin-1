@@ -4,7 +4,21 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-20T00:00:00Z</updated>
+  <updated>2026-09-21T00:00:00Z</updated>
+  <entry>
+    <title>Bay-Zeddie/dsh-agent-instructions</title>
+    <id>https://github.com/Bay-Zeddie/dsh-agent-instructions</id>
+    <link href="https://github.com/Bay-Zeddie/dsh-agent-instructions"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>在 dsh Web 设置页里编辑原生 AGENTS.md 的面板：指令链上每层可点选编辑，三种生效范围，并可视化官方指令预算。</summary>
+  </entry>
+  <entry>
+    <title>BOWLUNA/dsh-custom-mode</title>
+    <id>https://github.com/BOWLUNA/dsh-custom-mode</id>
+    <link href="https://github.com/BOWLUNA/dsh-custom-mode"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>在设置页管理 dsh 模式：选基础组成、逐行开关插件、编辑系统提示词（下一步模型调用即生效），可并存多个助手。</summary>
+  </entry>
   <entry>
     <title>PerryLink/dsh-plugin-upgrade</title>
     <id>https://github.com/PerryLink/dsh-plugin-upgrade</id>
@@ -200,19 +214,5 @@
     <link href="https://github.com/dugujun3-cloud/dshos-dock"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>工作区 OS 状态条：输入框上方常驻显示任务统计（总数/进行中/待验收）、最近运行事件与自检日期；零依赖只读，数据来自工作区 .dshos/ 文本契约，兼容旧 DSH-OS 布局，30 秒自动刷新。</summary>
-  </entry>
-  <entry>
-    <title>YEYEYEYESHIFU/dsh-split-screen</title>
-    <id>https://github.com/YEYEYEYESHIFU/dsh-split-screen</id>
-    <link href="https://github.com/YEYEYEYESHIFU/dsh-split-screen"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>分屏工作区：多个会话并排聊天，面板观感与原生对话完全一致，Alt+T 切换 TUI 输入模式，Alt+Shift+方向键切换面板焦点。</summary>
-  </entry>
-  <entry>
-    <title>SunshineR04/dsh-session-manager</title>
-    <id>https://github.com/SunshineR04/dsh-session-manager</id>
-    <link href="https://github.com/SunshineR04/dsh-session-manager"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>归档会话管理：设置页列出/恢复/彻底删除（直接物理删除，无备份层），会话菜单红色删除项与三个 agent 工具；已打开的会话也能立即删除（墓碑隐藏，重启后自动清理）。</summary>
   </entry>
 </feed>

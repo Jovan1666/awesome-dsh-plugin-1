@@ -127,6 +127,10 @@
   "npm": "dsh-find-plugin",
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/Bay-Zeddie/dsh-agent-instructions": {
+  "npm": null,
+  "checkedAt": "2026-09-21"
+ },
  "https://github.com/beancookie/dsh-plugin-anydoc": {
   "npm": null,
   "checkedAt": "2026-08-15"
@@ -194,6 +198,10 @@
  "https://github.com/bowenliang123/dsh-context": {
   "npm": "dsh-context",
   "checkedAt": "2026-08-16"
+ },
+ "https://github.com/BOWLUNA/dsh-custom-mode": {
+  "npm": "dsh-custom-mode",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/bpc-oss/dsh-web-billing": {
   "npm": null,
@@ -297,7 +305,7 @@
  },
  "https://github.com/chenzhi-clude/dsh-plugin-market": {
   "npm": null,
-  "checkedAt": "2026-08-22"
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Chinesezjc/dsh-interconnect": {
   "npm": null,
@@ -1430,6 +1438,10 @@
  "https://github.com/PerryLink/dsh-plugin-kit": {
   "npm": "@perrylink/dsh-plugin-kit",
   "checkedAt": "2026-09-13"
+ },
+ "https://github.com/PerryLink/dsh-plugin-upgrade": {
+  "npm": "dsh-plugin-upgrade",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/PerryLink/dsh-plugin-upgrade-015": {
   "npm": "dsh-plugin-upgrade-015",
