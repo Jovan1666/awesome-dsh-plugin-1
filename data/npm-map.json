@@ -911,6 +911,10 @@
   "npm": "dsh-smooth-stream",
   "checkedAt": "2026-09-15"
  },
+ "https://github.com/lcestou/dsh-oh-my-claude": {
+  "npm": "dsh-oh-my-claude",
+  "checkedAt": "2026-09-22"
+ },
  "https://github.com/lcthe/dsh-hermes-memory": {
   "npm": "@lcthe/dsh-hermes-memory",
   "checkedAt": "2026-09-06"

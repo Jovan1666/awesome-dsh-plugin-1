@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-21T00:00:00Z</updated>
+  <updated>2026-09-22T00:00:00Z</updated>
+  <entry>
+    <title>lcestou/dsh-oh-my-claude</title>
+    <id>https://github.com/lcestou/dsh-oh-my-claude</id>
+    <link href="https://github.com/lcestou/dsh-oh-my-claude"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>把已登录的 Claude Code CLI 作为 dsh 的模型提供商：实时模型列表、按会话恢复、审批中转、图片、记忆/回退/变更面板，以及远程 SSH 主机上的工作区。</summary>
+  </entry>
   <entry>
     <title>Bay-Zeddie/dsh-agent-instructions</title>
     <id>https://github.com/Bay-Zeddie/dsh-agent-instructions</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/lffrom0303/dsh-window98-theme"/>
     <updated>2026-09-09T00:00:00Z</updated>
     <summary>DSH Web 客户端 Windows 98 复古皮肤：teal 桌面 + 银色面板、立体浮雕按钮、凹陷输入框、像素字体与棋盘格滚动条，浅色/深色双模式。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-smart-title</title>
-    <id>https://github.com/weibaohui/dsh-smart-title</id>
-    <link href="https://github.com/weibaohui/dsh-smart-title"/>
-    <updated>2026-09-08T00:00:00Z</updated>
-    <summary>会话智能标题：每轮对话结束后用一次独立的辅助 LLM 调用对「用户消息+助手回答」的完整转写做总结，标题跟随会话真实主题而不是复述第一句话；首条消息即时生成标题、内置标题失败在后续轮次自动重试、用户手动改名绝不被覆盖、自动跳过子代理与 fork 会话。</summary>
   </entry>
 </feed>

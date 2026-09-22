@@ -1329,6 +1329,12 @@
   "etag": "W/\"c5f55b178977e82e51f1ff6f80f9251aa9a63d2a2a0eabb99989063cd7ab300b\"",
   "checkedAt": "2026-09-21"
  },
+ "https://github.com/lcestou/dsh-oh-my-claude": {
+  "stars": 4,
+  "createdAt": "2026-09-11",
+  "etag": "W/\"75969e6fc55317cc52c7c7faf7684c604fb63eac58b2caf548a354fe58f57ca5\"",
+  "checkedAt": "2026-09-22"
+ },
  "https://github.com/lcthe/dsh-hermes-memory": {
   "stars": 0,
   "createdAt": "2026-08-26",

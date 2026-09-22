@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-09-21T00:00:00Z</updated>
+  <updated>2026-09-22T00:00:00Z</updated>
+  <entry>
+    <title>lcestou/dsh-oh-my-claude</title>
+    <id>https://github.com/lcestou/dsh-oh-my-claude</id>
+    <link href="https://github.com/lcestou/dsh-oh-my-claude"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Runs the logged-in Claude Code CLI as an LLM provider for dsh: live model list, per-session resume, approval relay, images, a memory/rewind/changes panel, and workspaces on remote SSH boxes.</summary>
+  </entry>
   <entry>
     <title>Bay-Zeddie/dsh-agent-instructions</title>
     <id>https://github.com/Bay-Zeddie/dsh-agent-instructions</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/lffrom0303/dsh-window98-theme"/>
     <updated>2026-09-09T00:00:00Z</updated>
     <summary>A Windows 98 skin for the DSH web client with beveled buttons, sunken inputs, pixelated typography, navy accents and checkerboard scrollbars.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-smart-title</title>
-    <id>https://github.com/weibaohui/dsh-smart-title</id>
-    <link href="https://github.com/weibaohui/dsh-smart-title"/>
-    <updated>2026-09-08T00:00:00Z</updated>
-    <summary>Smart session titles for DSH: after each conversation turn an independent auxiliary LLM call summarizes the full user+assistant transcript into a title that follows the session's real topic instead of echoing the first message; the first message is titled instantly, failed built-in titles auto-retry on later turns, manual renames are never overwritten, and subagent/fork sessions are skipped.</summary>
   </entry>
 </feed>
